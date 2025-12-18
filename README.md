@@ -1,2 +1,2 @@
-# at-a
-@A | Art, Technology, Architecture
+# @A
+| Art, Technology, Architecture
