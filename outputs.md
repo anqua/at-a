@@ -6,7 +6,7 @@ title: Outputs
 ## Publications
 
 <ul>
-{% for pub in at-a.data.publications %}
+{% for pub in site.data.publications %}
   <li>
     {% if pub.type == "article" %}
       {{ pub.authors }}. <strong>{{ pub.title }}</strong>. {{ pub.journal }}, {{ pub.year }}{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}. {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
