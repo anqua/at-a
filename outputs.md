@@ -4,20 +4,33 @@ title: Outputs
 ---
 
 ## Publications
-<div id="outputs">
-<ul>
-{% for pub in site.data.publications %}
-  <li>
-    {% if pub.type == "article" %}
-      {{ pub.authors }}. <strong>{{ pub.title }}</strong>. {{ pub.journal }}, {{ pub.year }}{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}. {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
-    {% elsif pub.type == "conference" %}
-      {{ pub.authors }}. <strong>{{ pub.title }}</strong>. In {{ pub.conference }}, {{ pub.year }}.
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
-</div>
 
+<div id="outputs">
+
+<h3>Journal Articles</h3>
+<dl>
+{% assign sorted_journals = site.data.publications | where: "type", "article" | sort: "year" | reverse %}
+{% for pub in sorted_journals %}
+  <dt>{{ pub.authors }} ({{ pub.year }})</dt>
+  <dd>
+    <em>{{ pub.title }}</em>. {{ pub.journal }}{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
+    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
+  </dd>
+{% endfor %}
+</dl>
+
+<h3>Conference Papers</h3>
+<dl>
+{% assign sorted_confs = site.data.publications | where: "type", "conference" | sort: "year" | reverse %}
+{% for pub in sorted_confs %}
+  <dt>{{ pub.authors }} ({{ pub.year }})</dt>
+  <dd>
+    <em>{{ pub.title }}</em>. In {{ pub.conference }}.
+  </dd>
+{% endfor %}
+</dl>
+
+</div>
 
 
 
