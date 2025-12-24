@@ -26,6 +26,7 @@ title: Outputs
   <dt>{{ pub.authors }} ({{ pub.year }})</dt>
   <dd>
     <em>{{ pub.title }}</em>. In {{ pub.conference }}.
+    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
   </dd>
 {% endfor %}
 </dl>
