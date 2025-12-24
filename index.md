@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Research Group Name
+# Art, Technology, Architecture
 
 We conduct research on AI, computational fabrication, and bio-materials with applications for architecture and design. Sometimes, we might also create artworks.
 
