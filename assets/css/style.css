@@ -26,18 +26,29 @@ main h1 {
   margin-top: 0;
 }
 
-#outputs ul {
-  list-style-type: none;
-  padding-left: 0;
+#outputs dl {
+  margin: 0;
+  padding: 0;
 }
 
-#outputs li {
-  margin-bottom: 0.8em;
+#outputs dt {
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+#outputs dd {
+  margin: 0 0 1em 1em;
+  font-style: normal;
+  line-height: 1.4;
 }
 
 #outputs a {
   text-decoration: none;
   color: #0645ad;
+}
+
+#outputs a:hover {
+  text-decoration: underline;
 }
 
 
