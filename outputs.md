@@ -4,7 +4,7 @@ title: Outputs
 ---
 
 ## Publications
-
+<div id="outputs">
 <ul>
 {% for pub in site.data.publications %}
   <li>
@@ -16,6 +16,8 @@ title: Outputs
   </li>
 {% endfor %}
 </ul>
+</div>
+
 
 
 
