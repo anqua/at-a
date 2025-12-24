@@ -7,7 +7,15 @@
   year: 2025
   doi: "10.1145/3706598.3713667"
 
-
+- id: Horvath2025b
+  type: article
+  authors: "Anca-Simona Horvath and Voinea, Alina Elena and Radu Arieșan"
+  title: "Bio-Crafting Architecture: Experiences of Growing Mycelium in Minimal Surface Molds"
+  journal: "Sustainability (Switzerland)"
+  year: 2025
+  volume: 17
+  pages: "593--612"
+  doi: "10.3390/su17156835"
 
 - id: Horvath2024
   type: article
