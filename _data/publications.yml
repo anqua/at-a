@@ -1,11 +1,11 @@
 - id: Horvath2025a
   type: conference
-  authors: Anca-Simona Horvath and Dimitrios Raptis
-  title: How Students in Creative Educations Appropriate Technology: A Phenomenological Analysis
-  conference: 2025 CHI Conference on Human Factors in Computing Systems, CHI 2025
-  publisher: Association for Computing Machinery (ACM)
+  authors: "Anca-Simona Horvath and Dimitrios Raptis"
+  title: "How Students in Creative Educations Appropriate Technology: A Phenomenological Analysis"
+  conference: "2025 CHI Conference on Human Factors in Computing Systems, CHI 2025"
+  publisher: "Association for Computing Machinery (ACM)"
   year: 2025
-  doi: 10.1145/3706598.3713667
+  doi: "10.1145/3706598.3713667"
 
 
 
