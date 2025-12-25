@@ -3,10 +3,10 @@ layout: default
 title: Contact
 ---
 
-**Research Group Name**  
-Department of XXX  
-YYY University  
+**@A: Art, Technology, Architecture**  
+Computational Media and Arts, Information Hub  
+Hong Kong University of Science and Technology (GZ)
 
-Email: `group@university.edu`  
-Address: Street, City, Country
+Email: `ancahorvath@hkust-gz.edu.cn`  
+
 
