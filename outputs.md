@@ -36,6 +36,8 @@ title: Outputs
 
 ## Other Outputs
 - Datasets
+    ComPara: A Corpus Linguistics Dataset of Computation in Architecture: <a href="https://doi.org/10.17632/7ktscvmxvg.5" target="_blank">DOI</a>
+    
 - Software packages
 - Technical reports
 
