@@ -36,17 +36,16 @@ title: Outputs
 
 ## Other Outputs
 - Datasets
-  • A dataset containing titles of journal issues, and article titles from the journal Architectural Design (2005-2024) and the titles and abstracts of winning projects and honourable mentions of the eVolo skyscraper competition (2006-2024). This can be used in promt engineering or in training AI models with language that is specific to the field of architecture:
+  
+- A dataset containing titles of journal issues, and article titles from the journal Architectural Design (2005-2024) and the titles and abstracts of winning projects and honourable mentions of the eVolo skyscraper competition (2006-2024). This can be used in promt engineering or in training AI models with language that is specific to the field of architecture:
 
   ComPara: A Corpus Linguistics Dataset of Computation in Architecture. 2022. Anca-Simona Horvath. Mendeley Data <a href="https://doi.org/10.17632/7ktscvmxvg.5" target="_blank">DOI</a>
 
 ---
-  • A dataset containing 2.904 geometries of single-family houses in the form of annotated Point Clouds, and was developed in order to train 3D Generative Adversarial Networks. The geometries are segmented within 3 classes: wall, roof, floor. The points of the point clouds are saved in .pts files while their labels are saved in .seg files. The dataset can be used to train 3D Generative Adversarial Neural Networks (GANs) for architectural applications, with architecturally relevant data:
+- A dataset containing 2.904 geometries of single-family houses in the form of annotated Point Clouds, and was developed in order to train 3D Generative Adversarial Networks. The geometries are segmented within 3 classes: wall, roof, floor. The points of the point clouds are saved in .pts files while their labels are saved in .seg files. The dataset can be used to train 3D Generative Adversarial Neural Networks (GANs) for architectural applications, with architecturally relevant data:
 
   Annotated point clouds of buildings: a segmented dataset of single-family houses. 2022. Panagiota Pouliou, Anca-Simona Horvath, George Palamas. Mendeley Data. <a href="https://doi.org/10.17632/3thtp7mc6z.1" target="_blank">DOI</a>
-
 ---
-  
   
 - Software packages
 - Technical reports
