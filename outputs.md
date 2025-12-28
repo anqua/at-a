@@ -35,7 +35,7 @@ title: Outputs
 
 
 ## Other Outputs
-- Datasets
+<h3>Datasets</h3>
   
 - A dataset containing titles of journal issues, and article titles from the journal Architectural Design (2005-2024) and the titles and abstracts of winning projects and honourable mentions of the eVolo skyscraper competition (2006-2024). This can be used in promt engineering or in training AI models with language that is specific to the field of architecture:
 
@@ -47,8 +47,8 @@ title: Outputs
   Annotated point clouds of buildings: a segmented dataset of single-family houses. 2022. Panagiota Pouliou, Anca-Simona Horvath, George Palamas. Mendeley Data. <a href="https://doi.org/10.17632/3thtp7mc6z.1" target="_blank">DOI</a>
   
 ---
-  
-- Software packages
-- Technical reports
+
+<h3>Software packages</h3>
+<h3>Technical reports</h3>
 
 
