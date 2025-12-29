@@ -123,12 +123,12 @@ main h1 {
 #people {
   display: flex;
   flex-wrap: wrap;
-  gap: 1em;
+  gap: 2em;
 }
 
 .person-card {
   border: 1px solid #ccc;
-  padding: 1em;
+  padding: 2em;
   width: 220px;
   text-align: center;
   border-radius: 8px;
