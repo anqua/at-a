@@ -7,14 +7,14 @@
 
 - name: Yunwei Li | 李昀蔚
   role: Research Assistant
-  photo: /assets/images/jane_doe.jpg
+  photo: /at-a/assets/images/jane_doe.jpg
   email: yunweili@hkust-gz.edu.cn
   website: https://janedoe.example.com
   research: "design theory, design for play, communication design, visual communication"
   
 - name: Simai (Stella) Huang | 黄思迈 
   role: Research Assistant
-  photo: /assets/images/jane_doe.jpg
+  photo: /at-a/assets/images/jane_doe.jpg
   email: stellasimaih@hkust-gz.edu.cn
   website: https://janedoe.example.com
   research: "video analysis, art-based research, feminist theory, digital humanities"
@@ -26,12 +26,6 @@
   website: https://janedoe.example.com
   research: "landscape architecture, VR/AR/MR, art-based research, bio-design"
 
-- name: Yawei Zhao 
-  role: PhD student
-  photo: /assets/images/yawei.jpg
-  email: yzhao099@connect.hkust-gz.edu.cn
-  website: https://janedoe.example.com
-  research: "landscape architecture, VR/AR/MR, art-based research, bio-digital design"
 
 - name: Yufeg Zeng
   role: PhD student
