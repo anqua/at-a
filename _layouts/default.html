@@ -10,7 +10,13 @@
 
 <body>
   <header>
-    <nav>
+    <header class="site-header">
+  <div class="header-inner">
+    <div class="site-title">
+      <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </div>
+
+    <nav class="site-nav">
       <a href="https://anqua.github.io/at-a/index">Home</a>
       <a href="https://anqua.github.io/at-a/people">People</a>
       <a href="https://anqua.github.io/at-a/research">Research</a>
@@ -18,7 +24,8 @@
       <a href="https://anqua.github.io/at-a/news">News</a>
       <a href="https://anqua.github.io/at-a/contact">Contact</a>
     </nav>
-  </header>
+  </div>
+</header>
 
   <main>
     {{ content }}
