@@ -5,10 +5,10 @@ title: News
 
 ## 2025
 
-- **Jan 2025** — Paper accepted at Conference X.
-- **Dec 2024** — New PhD student joined the group.
+- **Dec 2025** — The group is growing fast: Xiaojing Liang joined in early December as an admin guru. Welcome Xiaojing!.
+- **Dec 2025** — Yunwei Li, recent master graduate of Design from Tsinghua University joins @A as Research Assistant. Yunwei will work on combining design for sustainability with design for play building on her ideas of history-as-design. Welcome Yunwei!.
+- **Nov 2025** - Stella Huang, recent master graduate of Creative Media from CityU joins @A as a Research Assistant. Stella will work on two projects investigating video-based social media content: one on Urban to Rural migration, and the second on (techno-)feminism. Welcome Stella!
+- **Sept 2025** - The first two group members join @A: Yawei Zhao and Yufeng Zeng, both PhD co-supervised students (Yawei with prof. Pan Hui and Yufeng with prof. Chen Liang - bot from Computational Media and Arts at HKUST-gz). Yawei works with mixed reality for reactivating public space, while Yufeng works with Creativity Support Tools. Welcome both!
+- **August 2025** - group founded
 
-## 2024
-
-- **Sep 2024** — Project Y funded.
 
