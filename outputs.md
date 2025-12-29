@@ -11,9 +11,9 @@ title: Outputs
 <dl>
 {% assign sorted_journals = site.data.publications | where: "type", "article" | sort: "year" | reverse %}
 {% for pub in sorted_journals %}
-  <dt>{{ pub.title }} ({{ pub.year }})</dt>
+  <dt>{{ pub.title }}</dt> | {{ pub.year }}
   <dd>
-    <em>{{ pub.authors }}</em>. {{ pub.journal }}{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
+    {{ pub.authors }}. <em>{{ pub.journal }}</em>{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
     {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
   </dd>
 {% endfor %}
@@ -23,9 +23,9 @@ title: Outputs
 <dl>
 {% assign sorted_confs = site.data.publications | where: "type", "conference" | sort: "year" | reverse %}
 {% for pub in sorted_confs %}
-  <dt>{{ pub.title }} ({{ pub.year }})</dt>
+  <dt>{{ pub.title }}</dt> | {{ pub.year }}
   <dd>
-    <em>{{ pub.authors }}</em>. In {{ pub.conference }}.
+    {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
     {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
   </dd>
 {% endfor %}
