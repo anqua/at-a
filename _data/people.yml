@@ -29,7 +29,7 @@
 
 - name: Yufeg Zeng
   role: PhD student
-  photo: at-a/assets/images/Logo_AtA.png
+  photo: /at-a/assets/images/Logo_AtA.png
   email: yzeng683@connect.hkust-gz.edu.cn
   website: https://janedoe.example.com
   research: "creativity support tools, architectural design, design thinking"
