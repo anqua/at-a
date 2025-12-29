@@ -10,7 +10,7 @@ body {
 
 header {
   margin-bottom: 2rem;
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
 }
 
 nav {
@@ -33,7 +33,7 @@ nav a {
   }
 
   nav a {
-    font-size: 1.8em;
+    font-size: 1.2em;
     padding: 0.75em 0;
     border-bottom: 1px solid #ddd;
   }
