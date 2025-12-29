@@ -41,7 +41,7 @@ title: Outputs
 - **ComPara: A Corpus Linguistics Dataset of Computation in Architecture**  
 | 2022 | Anca-Simona Horvath. Mendeley Data <a href="https://doi.org/10.17632/7ktscvmxvg.5" target="_blank">DOI</a>
   
-  A dataset containing titles of journal issues, and article titles from the journal Architectural Design (2005-2024) and the titles and abstracts of winning projects and honourable mentions of the eVolo skyscraper competition (2006-2024). This can be used in promt engineering or in training AI models with language that is specific to the field of architecture:
+  A dataset containing titles of journal issues, and article titles from the journal Architectural Design (2005-2024) and the titles and abstracts of winning projects and honourable mentions of the eVolo skyscraper competition (2006-2024). This can be used in promt engineering or in training AI models with language that is specific to the field of architecture.
 
 
 ---
