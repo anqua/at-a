@@ -19,7 +19,7 @@ header {
 }
 
 .header-inner {
-  max-width: 1000px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 1.2em 1em;
   display: flex;
@@ -123,12 +123,12 @@ main h1 {
 #people {
   display: flex;
   flex-wrap: wrap;
-  gap: 1em;
+  gap: 0.5em;
 }
 
 .person-card {
   border: 1px solid #ccc;
-  padding: 1em;
+  padding: 2em;
   width: 220px;
   text-align: center;
   border-radius: 8px;
