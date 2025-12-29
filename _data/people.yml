@@ -1,1 +1,14 @@
+- name: Anca Horvath
+  role: Assistant Professor | Group Lead
+  photo: /assets/images/john_smith.jpg
+  email: ancahorvath@hkust-gz.edu.cn
+  website: https://johnsmith.example.com
+  research: "computational design, architectural design, computational fabrication, bio-desigm, architectural theory"
+
+- name: Yunwei Li | 李昀蔚
+  role: Research Assistant
+  photo: /assets/images/jane_doe.jpg
+  email: yunweili@hkust-gz.edu.cn
+  website: https://janedoe.example.com
+  research: "design theory, design for play, communication design, visual communication"
 
