@@ -22,20 +22,7 @@ title: People
 {% endfor %}
 </div>
 
-## Faculty
-
-**Name Surname**  
-Role, affiliation  
-Research interests
-
-## Researchers
-
-**Name Surname**  
-Position  
-Research interests
+## Collaborators
 
 ## Students
-
-- Name Surname (PhD)
-- Name Surname (MSc)
 
