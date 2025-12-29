@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Art, Technology, Architecture
-
 We conduct research on AI, computational fabrication, and bio-materials with applications for architecture and design. 
 Sometimes, we also build create artworks.
 
