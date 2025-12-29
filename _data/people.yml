@@ -1,6 +1,6 @@
 - name: Anca Horvath
   role: Assistant Professor | Group Lead
-  photo: /assets/images/john_smith.jpg
+  photo: /assets/images/anca.jpg
   email: ancahorvath@hkust-gz.edu.cn
   website: https://johnsmith.example.com
   research: "computational design, architectural design, computational fabrication, bio-desigm, architectural theory"
@@ -11,4 +11,33 @@
   email: yunweili@hkust-gz.edu.cn
   website: https://janedoe.example.com
   research: "design theory, design for play, communication design, visual communication"
+  
+- name: Simai (Stella) Huang | 黄思迈 
+  role: Research Assistant
+  photo: /assets/images/jane_doe.jpg
+  email: stellasimaih@hkust-gz.edu.cn
+  website: https://janedoe.example.com
+  research: "video analysis, art-based research, feminist theory, digital humanities"
+
+- name: Yawei Zhao 
+  role: PhD student
+  photo: /assets/images/yawei.jpg
+  email: yzhao099@connect.hkust-gz.edu.cn
+  website: https://janedoe.example.com
+  research: "landscape architecture, VR/AR/MR, art-based research, bio-design"
+
+- name: Yawei Zhao 
+  role: PhD student
+  photo: /assets/images/yawei.jpg
+  email: yzhao099@connect.hkust-gz.edu.cn
+  website: https://janedoe.example.com
+  research: "landscape architecture, VR/AR/MR, art-based research, bio-digital design"
+
+- name: Yufeg Zeng
+  role: PhD student
+  photo: /assets/images/yawei.jpg
+  email: yzeng683@connect.hkust-gz.edu.cn
+  website: https://janedoe.example.com
+  research: "creativity support tools, architectural design, design thinking"
+
 
