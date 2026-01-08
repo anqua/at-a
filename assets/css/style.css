@@ -118,6 +118,8 @@ nav a {
 
 main h1 {
   margin-top: 0;
+  font-size: 1.6em;
+  margin-bottom: 0.6em;
 }
 
 #outputs dl {
