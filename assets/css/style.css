@@ -14,6 +14,13 @@
   font-display: swap;
 }
 
+.site-title a {
+  font-family: "MyGroupFont", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 700;
+}
+
+
+
 
 body {
   max-width: 1000px;
