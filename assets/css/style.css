@@ -150,7 +150,7 @@ h1 {
 #people {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.7em;
+  gap: 1.5em;
 }
 
 .person-card {
