@@ -4,10 +4,10 @@ title: Research
 ---
 
 ## Research Themes
-We conduct research on the following directions: computational tools including AI for design and archietcture and digital fabrication using natural materials for design and architecture in the context of design for sustainability.
+We conduct research on the following directions: (a) computational tools (including AI) for design and architecture and (b) digital fabrication using natural materials for design and architecture. Design for sustainability is an important concern in our research. 
 
 We publish across the following fields: architecture&design, human-computer interaction, media art
-We also exhibit design and artworks in various venues.
+We also exhibit designs and artworks in various venues.
 
 ### Computational and AI tools for architecture and design
 Investigating practical and theoretical implications of computational tools and AI on design processes. 
