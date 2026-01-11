@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-**@A: Art, Technology, Architecture**  
+**@A | Art, Technology, Architecture**  
 Computational Media and Arts
 
 Information Hub
