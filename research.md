@@ -4,8 +4,10 @@ title: Research
 ---
 
 ## Research Themes
-We conduct research on the following directions:
-We publish across the following fields: architecture, design, human-computer interaction, media art
+We conduct research on the following directions: computational tools including AI for design and archietcture and digital fabrication using natural materials for design and architecture in the context of design for sustainability.
+
+We publish across the following fields: architecture&design, human-computer interaction, media art
+We also exhibit design and artworks in various venues.
 
 ### Computational and AI tools for architecture and design
 Investigating practical and theoretical implications of computational tools and AI on design processes. 
