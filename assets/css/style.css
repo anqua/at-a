@@ -156,7 +156,7 @@ h1 {
 .person-card {
   border: 1px solid #ccc;
   padding: 1em;
-  flex: 0 1 260px;
+  flex: 0 1 300px;
   text-align: center;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
