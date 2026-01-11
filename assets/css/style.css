@@ -150,13 +150,13 @@ h1 {
 #people {
   display: flex;
   flex-wrap: wrap;
-  gap: 2em;
+  gap: 1.5em;
 }
 
 .person-card {
   border: 1px solid #ccc;
   padding: 1em;
-  width: 28%;
+  width: 27.5%;
   text-align: center;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
