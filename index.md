@@ -15,4 +15,4 @@ Sometimes, we also create artworks.
   
 - *September 2025*: The first two group members join @A: Yawei Zhao and Yufeng Zeng, both PhD students co-supervised with colleagues in the Computational Media and Arts thrust at HKUST-gz (Yawei with prof. Pan Hui and Yufeng with prof. Chen Liang). Yawei works with mixed reality for reactivating public space, while Yufeng works with Creativity Support Tools. Welcome both!
   
-- *August 2025*: Anca joins the Hong Kong University of Science and Technology (gz) as a tenure-track assistant professor in the Computational Media&Arts thrust from Aalborg University in Denmark and starts @A | Art, Technology, Architectue
+- *August 2025*: Anca joins the Hong Kong University of Science and Technology (gz) as a tenure-track assistant professor in the Computational Media arts Arts thrust from Aalborg University in Denmark and starts @A: Art, Technology, Architectue
