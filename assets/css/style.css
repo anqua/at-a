@@ -143,14 +143,18 @@ h1 {
   color: #0645ad;
 }
 
-#outputs a:hover {
+#outputs a: hover {
   text-decoration: underline;
 }
 
 #people {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1em;
   display: flex;
   flex-wrap: wrap;
-  gap: 1.6em;
+  gap: 2em;
+
 }
 
 .person-card {
