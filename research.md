@@ -4,20 +4,25 @@ title: Research
 ---
 
 ## Research Themes
-We conduct research on the following directions: (a) computational tools (including AI) for design and architecture and (b) digital fabrication using natural materials for design and architecture. Design for sustainability is an important concern in our research. 
+We conduct research on the following directions: 
+(a) computational tools (including AI) for design and architecture and 
+(b) digital fabrication using natural materials for design and architecture. 
 
-We publish across the following fields: architecture&design, human-computer interaction, media art
+Design for sustainability is an important concern in our research. 
+
+We publish across the following fields: architecture&design, human-computer interaction, media art.
+
 We also exhibit designs and artworks in various venues.
 
 ### Computational and AI tools for architecture and design
 Investigating practical and theoretical implications of computational tools and AI on design processes. 
-We ask questions such as: how does computation and AI change thinking and creative processes - what and how do we think using computation? What is there to gain and what is to lose from the on-going retooling of these creative professions?
+We ask questions such as: how does computation and AI change creative processes? What kind of things can we design with computation that could not be designed without it? What and how do we think through computational tools? In short - what is there to gain and what is to lose from the on-going retooling of these creative professions?
 
 
-### Digital fabrication usong natural materials
-Architecture and design are among the industries with the hhighest environmental impact - energy and material use, and CO2 as well as other emissions (i.e. methane).
-Developing new materials that biodegrade faster, that are grown instead of mined can help alleviate the environmental impact of designed products and buildings.
+### Digital fabrication using natural materials
+Architecture and design are among the industries with the highest environmental impact through their high energy and material use, and CO2, together with other emissions such as methane.
+Developing new materials that biodegrade faster, that are grown rather than mined, can help alleviate the environmental impact of designed products and buildings.
 
-Research methods: design-based research, material-based research, art-based research
+
 
 
