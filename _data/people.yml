@@ -5,33 +5,40 @@
   website: https://ancah.myportfolio.com/
   research: "computational design, architectural design, computational fabrication, bio-design, architectural theory, art&sciece"
 
+- name: Xiaojun Zhu | 朱晓君 
+  role: PhD student
+  photo: /at-a/assets/images/Logo_AtA.png
+  email: xzhu895@connect.hkust-gz.edu.cn
+  website: https://anqua.github.io/at-a/
+  research: "digital fabrication, design for sustainability, bio-design, bio-rock"
+
 - name: Yunwei Li | 李昀蔚
   role: Research Assistant
   photo: /at-a/assets/images/Logo_AtA.png
   email: yunweili@hkust-gz.edu.cn
-  website: https://janedoe.example.com
+  website: https://anqua.github.io/at-a/
   research: "design theory, design for play, communication design, visual communication"
   
 - name: Simai (Stella) Huang | 黄思迈 
   role: Research Assistant
   photo: /at-a/assets/images/Logo_AtA.png
   email: stellasimaih@hkust-gz.edu.cn
-  website: https://janedoe.example.com
+  website: https://anqua.github.io/at-a/
   research: "video analysis, art-based research, feminist theory, digital humanities"
 
-- name: Yawei Zhao 
+- name: Yawei Zhao | 赵雅薇
   role: PhD student
   photo: /at-a/assets/images/Logo_AtA.png
   email: yzhao099@connect.hkust-gz.edu.cn
-  website: https://janedoe.example.com
+  website: https://anqua.github.io/at-a/
   research: "landscape architecture, VR/AR/MR, art-based research, bio-design"
 
 
-- name: Yufeg Zeng
+- name: Yufeg Zeng | 曾钰峰
   role: PhD student
   photo: /at-a/assets/images/Logo_AtA.png
   email: yzeng683@connect.hkust-gz.edu.cn
-  website: https://janedoe.example.com
+  website: https://anqua.github.io/at-a/
   research: "creativity support tools, architectural design, design thinking"
 
 - name: Xiaojin Liang | 梁晓静
