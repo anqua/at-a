@@ -20,8 +20,8 @@ We ask questions such as: how does computation and AI change creative processes?
 
 
 ### Digital fabrication using natural materials
-Architecture and design are among the industries with the highest environmental impact through their high energy and material use, and CO2, together with other emissions such as methane.
-Developing new materials that biodegrade faster, that are grown rather than mined, can help alleviate the environmental impact of designed products and buildings.
+Architecture and design are among the industries with the highest environmental impact through their high energy and material use, CO2, and other emissions, such as methane.
+Developing new materials that biodegrade faster, that are grown rather than mined, can help alleviate the environmental impact of designed products and buildings. We explore new materials, material systems, and fabrication methods. Examples include: mycelium, Bio-rock, sea-shell based concretes, or 4D printing. We show how these materials can be applied to designed products or buildings.
 
 
 
