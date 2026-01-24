@@ -19,10 +19,10 @@ Sometimes, we also create artworks.
 - *Dec 2025*: Yunwei Li, recent master graduate of Design from Tsinghua University joins @A as Research Assistant. Yunwei will work on combining design for sustainability with design for play, building on her ideas of history-as-design. Welcome Yunwei!
   
 - *Nov 2025* — talk on <a href="https://mp.weixin.qq.com/s/cJqItKSQhdcrjMCkMWmffA" target="_blank" rel="noopener">AI and bio-materials for design</a> at the Sichuan Fine Arts Institute
-  
-- *Nov 2025* - participated in the <a href="https://diaspora-stiintifica.ro/" target="_blank" rel="noopener">SMART Diaspora</a> conference in Romania, a conference organized by the Romanian Ministry of Education and Research as part of a workshop/panel called <a href="https://www.linkedin.com/feed/update/urn:li:activity:7396896105701085184/" target="_blank" rel="noopener"> The impact of design and the visual arts in contemporary society</a>
 
 - *Nov 2025* - participated in the <a href="https://artsit.eai-conferences.org/2025/" target="_blank" rel="noopener">14th EAI International Conference: ArtsIT, Interactivity & Game Creation</a> conference which took place in Dubai, and chaired a special track on  <a href="https://artsit.eai-conferences.org/2025/call-for-special-track-papers-on-art-and-design-in-the-ai-era/" target="_blank" rel="noopener">Art and Design in the AI Era: New Creative Practices, Data Curation, and Automation</a>
+
+- *Nov 2025* - participated in the <a href="https://diaspora-stiintifica.ro/" target="_blank" rel="noopener">SMART Diaspora</a> conference in Romania, a conference organized by the Romanian Ministry of Education and Research as part of a workshop/panel called <a href="https://www.linkedin.com/feed/update/urn:li:activity:7396896105701085184/" target="_blank" rel="noopener"> The impact of design and the visual arts in contemporary society</a>
 
 - *Nov 2025* - participated in the SMART Diaspora conference as part of a workshop/panel called <a href="https://www.linkedin.com/feed/update/urn:li:activity:7396896105701085184/" target="_blank" rel="noopener">The impact of design and the visual arts in contemporary society</a>
 
