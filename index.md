@@ -12,7 +12,7 @@ Sometimes, we also create artworks.
 
 - *Jan 2026* — Chloe Zhu, a recent master's graduate of Architecture from Chalmers University, just joined @A as a PhD student. She will work on developing a new material system combining Bio-rock technology with reclaimed seashell concrete. Welcome Chloe!
   
-- *Jan 2026* — Lucky John Tutor, recent master's graduate from HKUST-gz, just joined @A as a PhD candidate. He will work on 4D printing and novel facade elements. Welcome Lucky!
+- *Jan 2026* — Lucky John Tutor, recent master's graduate from HKUST-gz, just joined @A as a PhD student. He will work on 4D printing and novel facade elements. Welcome Lucky!
 
 - *Dec 2025*: The group is growing fast: Xiaojing Liang joined in early December as an admin guru. Welcome Xiaojing!
   
