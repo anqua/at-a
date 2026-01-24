@@ -28,7 +28,7 @@ Sometimes, we also create artworks.
 
 - *Nov 2025*: Stella Huang, recent master graduate of Creative Media from CityU joins @A as a Research Assistant. Stella will work on two projects investigating video-based social media content: one on Urban to Rural migration, and the second on (techno-)feminism. Welcome Stella!
   
-- *Oct 2025* - tocco.earth, one of the main platforms on bio-materials, featured our work: <a href="[https://tocco.earth/](https://tocco.earth/article/ai-pushes-material-choice-upstream-from-geometry-to-lca)" target="_blank" rel="noopener">AI Pushes Material Choice Upstream, From Geometry to LCA</a>
+- *Oct 2025* - tocco.earth, one of the main platforms on bio-materials, featured our work: <a href="https://tocco.earth/article/ai-pushes-material-choice-upstream-from-geometry-to-lca" target="_blank" rel="noopener">AI Pushes Material Choice Upstream, From Geometry to LCA</a>
 
 - *Oct 2025* - took part in a trip across China to see industrial production sites for robotics, new materials ,and bio-technologies, organized by <a href="https://tocco.earth/" target="_blank" rel="noopener">tocco.earth</a>
 
