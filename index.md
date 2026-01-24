@@ -8,7 +8,7 @@ Sometimes, we also create artworks.
 
 ## News
 
-- *Jan 2026* - editing a special issue under the theme <a href="https://raco.cat/index.php/Artnodes/about/call-for-papers-no-disciplinari" target="_blank" rel="noopener">Un-disciplinary</a> in the journal <a href="https://raco.cat/index.php/Artnodes/about/" target="_blank" rel="noopener">ArtNodes</a>. This builds on the <a href="https://www.youtube.com/watch?v=m4Iat5GsrV0" target="_blank" rel="noopener">Un-disciplinary</a> symposium and art exhibition organized in Aalborg in 2023, and funded by <a href="https://novonordiskfonden.dk/en/" target="_blank" rel="noopener">Novo Nordisk Fonden</a>
+- *Jan 2026* - editing a special issue under the theme <a href="https://raco.cat/index.php/Artnodes/about/call-for-papers-no-disciplinari" target="_blank" rel="noopener">Un-disciplinary: Entangled ways of seeing, knowing and doing</a> in the journal <a href="https://raco.cat/index.php/Artnodes/about/" target="_blank" rel="noopener">ArtNodes</a>. This builds on the <a href="https://www.youtube.com/watch?v=m4Iat5GsrV0" target="_blank" rel="noopener">Un-disciplinary</a> symposium and art exhibition organized in Aalborg in 2023, and funded by <a href="https://novonordiskfonden.dk/en/" target="_blank" rel="noopener">Novo Nordisk Fonden</a>
 
 - *Jan 2026* — Chloe Zhu, a recent master's graduate of Architecture from Chalmers University, just joined @A as a PhD student. She will work on developing a new material system combining Bio-rock technology with reclaimed seashell concrete. Welcome Chloe!
   
