@@ -32,7 +32,7 @@ Sometimes, we also create artworks.
 
 - *Oct 2025* - took part in a trip across China to see industrial production sites for robotics, new materials ,and bio-technologies, organized by <a href="https://tocco.earth/" target="_blank" rel="noopener">tocco.earth</a>
 
-- *Oct 2025* - gave a talk at SUStech school of Design on <a href="[https://tocco.earth/](https://www.linkedin.com/feed/update/urn:li:activity:7381562066630840320/)" target="_blank" rel="noopener">Ecologies of Care and Language as Design material</a>
+- *Oct 2025* - gave a talk at SUStech school of Design on <a href="https://www.linkedin.com/feed/update/urn:li:activity:7381562066630840320/" target="_blank" rel="noopener">Ecologies of Care and Language as Design material</a>
 
 - *Sept 2025* - The first two group members join @A: Yawei Zhao and Yufeng Zeng, both co-supervised PhD students (Yawei with prof. Pan Hui and Yufeng with prof. Chen Liang - bot from Computational Media and Arts at HKUST-gz). Yawei works with mixed reality for reactivating public space, while Yufeng works with Creativity Support Tools. Welcome both!
   
