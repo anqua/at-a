@@ -24,8 +24,6 @@ Sometimes, we also create artworks.
 
 - *Nov 2025* - participated in the <a href="https://diaspora-stiintifica.ro/" target="_blank" rel="noopener">SMART Diaspora</a> conference in Romania, a conference organized by the Romanian Ministry of Education and Research as part of a workshop/panel called <a href="https://www.linkedin.com/feed/update/urn:li:activity:7396896105701085184/" target="_blank" rel="noopener"> The impact of design and the visual arts in contemporary society</a>
 
-- *Nov 2025* - participated in the SMART Diaspora conference as part of a workshop/panel called <a href="https://www.linkedin.com/feed/update/urn:li:activity:7396896105701085184/" target="_blank" rel="noopener">The impact of design and the visual arts in contemporary society</a>
-
 - *Nov 2025*: Stella Huang, recent master graduate of Creative Media from CityU joins @A as a Research Assistant. Stella will work on two projects investigating video-based social media content: one on Urban to Rural migration, and the second on (techno-)feminism. Welcome Stella!
   
 - *Oct 2025* - tocco.earth, one of the main platforms on bio-materials, featured our work: <a href="https://tocco.earth/article/ai-pushes-material-choice-upstream-from-geometry-to-lca" target="_blank" rel="noopener">AI Pushes Material Choice Upstream, From Geometry to LCA</a>
