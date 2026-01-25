@@ -18,7 +18,7 @@ title: News
 - **Nov 2025** - Stella Huang, a recent master's graduate of Creative Media from CityU Hong Kong, joins @A as a Research Assistant. Stella will work on two projects investigating video-based social media content: one on Urban to Rural migration, and the second on (techno-)feminism. Welcome Stella!
 - **Oct 2025** - tocco.earth, one of the main platforms on bio-materials, featured our work: <a href="https://tocco.earth/article/ai-pushes-material-choice-upstream-from-geometry-to-lca" target="_blank" rel="noopener">AI Pushes Material Choice Upstream, From Geometry to LCA</a>
 - **Oct 2025** - took part in a trip across China to see industrial production sites for robotics, new materials ,and bio-technologies, organized by <a href="https://tocco.earth/" target="_blank" rel="noopener">tocco.earth</a>
-- **Oct 2025** - gave a talk at SUStech school of Design on <a href="https://tocco.earth/" target="_blank" rel="noopener">Ecologies of Care and Language as Design material</a>
+- **Oct 2025** - gave a talk at SUStech school of Design on <a href="[https://www.linkedin.com/feed/update/urn:li:activity:7381562066630840320/" target="_blank" rel="noopener">Ecologies of Care and Language as Design material</a>
 - **Sept 2025** - The first two group members join @A: Yawei Zhao and Yufeng Zeng, both PhD co-supervised students (Yawei with prof. Pan Hui and Yufeng with prof. Chen Liang - bot from Computational Media and Arts at HKUST-gz). Yawei works with mixed reality for reactivating public space, while Yufeng works with Creativity Support Tools. Welcome both!
 - **August 2025** - group founded
 
