@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-We conduct research on AI, computational fabrication, and bio-materials with applications for architecture and design. 
-Sometimes, we also create artworks.
+In Art, Technology, Architecture (@A), we conduct research that investigates the impact and effects of emerging technologies on creative practices (specifically architecture, design, and the visual arts). We use computational design, digital fabrication, AI, and living materials to create speculative concepts, artworks, and build architectural demonstrators. We focus on both practical and theoretical aspects of the impact of novel tools and materials on artistic and designerly outputs and publish academic research across architecture and design, media art and human-computer interaction. 
+
 
 ## News
 
