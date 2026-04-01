@@ -5,7 +5,7 @@ title: News
 
 ## 2026
 
-- **Mar 2026** — Yujie Liu (Jessie), with a background in English literature from Newcastle University, just joined @A as an Mphil student. She will work on generative AI, human-computer, and human-animal interaction. Welcome Yujie!
+- **Mar 2026** — Yujie Liu (Jessie), with a background in English literature, just joined @A as an Mphil student. She will work on generative AI, human-computer, and human-animal interaction. Welcome Yujie!
 
 - **Mar 2026** — Lei Han (Simona), master's graduate from HKUST-gz, just joined @A as a co-supervised PhD candidate. His work focuses on AI applied for learning about built cultural heritage. Welcome Simon!
 
