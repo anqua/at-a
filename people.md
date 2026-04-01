@@ -24,5 +24,3 @@ title: People
 
 ## Collaborators
 
-## Students
-
