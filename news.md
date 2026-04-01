@@ -5,8 +5,14 @@ title: News
 
 ## 2026
 
+- **Mar 2026** — Yujie Liu (Jessie), with a background in English literature from Newcastle University, just joined @A as an Mphil student. She will work on generative AI, human-computer, and human-animal interaction. Welcome Yujie!
+
+- **Mar 2026** — Lei Han (Simona), master's graduate from HKUST-gz, just joined @A as a co-supervised PhD candidate. His work focuses on AI applied for learning about built cultural heritage. Welcome Simon!
+
 - **Jan 2026** - editing a special issue under the theme <a href="https://raco.cat/index.php/Artnodes/about/call-for-papers-no-disciplinari" target="_blank" rel="noopener">Un-disciplinary: Entangled ways of seeing, knowing and doing</a> in the journal <a href="https://raco.cat/index.php/Artnodes/about/" target="_blank" rel="noopener">ArtNodes</a>. This builds on the <a href="https://www.youtube.com/watch?v=m4Iat5GsrV0" target="_blank" rel="noopener">Un-disciplinary</a> symposium and art exhibition organized in Aalborg in 2023, and funded by <a href="https://novonordiskfonden.dk/en/" target="_blank" rel="noopener">Novo Nordisk Fonden</a>
+
 - **Jan 2026** — Chloe Zhu, a recent master's graduate of Architecture from Chalmers University, just joined @A as a PhD student. She will work on developing a new material system combining Bio-rock technology with reclaimed seashell concrete. Welcome Chloe!
+
 - **Jan 2026** — Lucky John Tutor, recent master's graduate from HKUST-gz, just joined @A as a PhD candidate. He will work on 4D printing actuators for origami/kirigami structures to be used as facade elements Welcome Lucky!
 
 ## 2025
@@ -19,7 +25,7 @@ title: News
 - **Oct 2025** - tocco.earth, one of the main platforms on bio-materials, featured our work: <a href="https://tocco.earth/article/ai-pushes-material-choice-upstream-from-geometry-to-lca" target="_blank" rel="noopener">AI Pushes Material Choice Upstream, From Geometry to LCA</a>
 - **Oct 2025** - took part in a trip across China to see industrial production sites for robotics, new materials ,and bio-technologies, organized by <a href="https://tocco.earth/" target="_blank" rel="noopener">tocco.earth</a>
 - **Oct 2025** - gave a talk at SUStech school of Design on <a href="https://www.linkedin.com/feed/update/urn:li:activity:7381562066630840320/" target="_blank" rel="noopener">Ecologies of Care and Language as Design material</a>
-- **Sept 2025** - The first two group members join @A: Yawei Zhao and Yufeng Zeng, both PhD co-supervised students (Yawei with prof. Pan Hui and Yufeng with prof. Chen Liang - bot from Computational Media and Arts at HKUST-gz). Yawei works with mixed reality for reactivating public space, while Yufeng works with Creativity Support Tools. Welcome both!
+- **Sept 2025** - The first two group members join @A: Yawei Zhao and Yufeng Zeng, both PhD co-supervised students (Yawei with prof. Pan Hui and Yufeng with prof. Chen Liang - both from Computational Media and Arts at HKUST-gz). Yawei works with mixed reality for reactivating public space, while Yufeng works with Creativity Support Tools. Welcome both!
 - **August 2025** - group founded
 
 
