@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Outputs
+title: Activities
 ---
 
 ## Publications
