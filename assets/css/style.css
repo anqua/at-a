@@ -39,8 +39,8 @@ header {
 }
 
 .site-header {
-  background-color: #f7f7f7;
-  border-bottom: 2px solid #ddd;
+  background-color: #000;   /* black */
+  border-bottom: 2px solid #222;
 }
 
 .header-inner {
@@ -56,7 +56,7 @@ header {
   font-size: 1.4em;
   font-weight: 600;
   text-decoration: none;
-  color: #003df7;
+  color: #fff;
 }
 
 .site-nav a {
