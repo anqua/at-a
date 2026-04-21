@@ -2,10 +2,19 @@
   type: conference
   authors: "Anca-Simona Horvath and Dimitrios Raptis"
   title: "How Students in Creative Educations Appropriate Technology: A Phenomenological Analysis"
-  conference: "2025 CHI Conference on Human Factors in Computing Systems"
+  conference: "CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
   publisher: "Association for Computing Machinery (ACM)"
   year: 2025
   doi: "10.1145/3706598.3713667"
+
+- id: Zeng2026
+  type: conference
+  authors: "Yufeng Zeng, Troy TianYu Lin, Shuyue Li, Yue Hong, Anca-Simona Horvath, Chen Liang"
+  title: "PerforMagic: Coordinating Bodily Performance and Camera Movement in AI Video Creation"
+  conference: "CHI '26: Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems"
+  publisher: "Association for Computing Machinery (ACM)"
+  year: 2026
+  doi: "10.1145/3772363.3798782"
 
 - id: Horvath2025b
   type: article
