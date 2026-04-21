@@ -3,7 +3,7 @@ layout: default
 title: Outputs
 ---
 
-## Publications
+
 
 <div id="outputs">
 
@@ -34,7 +34,7 @@ title: Outputs
 </div>
 
 
-## Other Outputs
+
 <h3>DATASETS</h3>
 
 ---
