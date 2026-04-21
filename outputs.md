@@ -7,7 +7,7 @@ title: Outputs
 
 <div id="outputs">
 
-<h3>Journal Articles</h3>
+<h3>JOURNAL ARTICLES</h3>
 <dl>
 {% assign sorted_journals = site.data.publications | where: "type", "article" | sort: "year" | reverse %}
 {% for pub in sorted_journals %}
@@ -19,7 +19,7 @@ title: Outputs
 {% endfor %}
 </dl>
 
-<h3>Conference Papers</h3>
+<h3>CONFERENCE PAPERS</h3>
 <dl>
 {% assign sorted_confs = site.data.publications | where: "type", "conference" | sort: "year" | reverse %}
 {% for pub in sorted_confs %}
@@ -35,7 +35,7 @@ title: Outputs
 
 
 ## Other Outputs
-<h3>Datasets</h3>
+<h3>DATASETS</h3>
 
 ---
 - **ComPara: A Corpus Linguistics Dataset of Computation in Architecture**  
