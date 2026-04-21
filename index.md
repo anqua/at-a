@@ -12,7 +12,7 @@ In Art, Technology, Architecture (@A), we conduct research that investigates the
 
 - *Mar 2026* — Yujie Liu (Jessie), with a background in English literature, just joined @A as an Mphil student. She will work on digital humanities, generative AI, and human-computer interaction. Welcome Yujie!
 
-- *Mar 2026* — Lei Han (Simon), master's graduate from HKUST-gz, and with a background in fine arts from the Chinese Academy of Fine arts  joined @A as a co-supervised PhD candidate (with prof. David Yip as main supervisor). His work focuses on AI mediated learning about built cultural heritage. Welcome Simon!
+- *Mar 2026* — Lei Han (Simon), master's graduate from HKUST-gz, and with a background in fine arts from the Chinese Academy of Fine Arts (CAFA) joined @A as a co-supervised PhD candidate (with prof. David Yip as main supervisor). His work focuses on AI mediated learning about built cultural heritage. Welcome Simon!
 
 
 - *Jan 2026* - editing a special issue under the theme <a href="https://raco.cat/index.php/Artnodes/about/call-for-papers-no-disciplinari" target="_blank" rel="noopener">Un-disciplinary: Entangled ways of seeing, knowing and doing</a> in the journal <a href="https://raco.cat/index.php/Artnodes/about/" target="_blank" rel="noopener">ArtNodes</a>. This builds on the <a href="https://www.youtube.com/watch?v=m4Iat5GsrV0" target="_blank" rel="noopener">Un-disciplinary</a> symposium and art exhibition organized in Aalborg in 2023, and funded by <a href="https://novonordiskfonden.dk/en/" target="_blank" rel="noopener">Novo Nordisk Fonden</a>
