@@ -39,7 +39,7 @@ In Art, Technology, Architecture (@A), we conduct research that investigates the
 
 - *Oct 2025* - gave a talk at SUStech school of Design on <a href="https://www.linkedin.com/feed/update/urn:li:activity:7381562066630840320/" target="_blank" rel="noopener">Ecologies of Care and Language as Design material</a>
 
-- *Sept 2025* - The first two group members join @A: Yawei Zhao and Yufeng Zeng, both co-supervised PhD students (Yawei with prof. Pan Hui and Yufeng with prof. Chen Liang - bot from Computational Media and Arts at HKUST-gz). Yawei works with mixed reality for reactivating public space, while Yufeng works with Creativity Support Tools. Welcome both!
+- *Sept 2025* - The first two group members join @A: Yawei Zhao and Yufeng Zeng, both co-supervised PhD students (Yawei with prof. Pan Hui and Yufeng with prof. Chen Liang - both from Computational Media and Arts at HKUST-gz). Yawei works with mixed reality for reactivating public space, while Yufeng works with Creativity Support Tools. Welcome both!
   
-- *August 2025* - group founded
+- *August 2025* - group founded at the Hong Kong University of Science and Technology, Guangzhou campus
 
