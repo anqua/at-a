@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-In Art, Technology, Architecture (@A), we conduct research that investigates the impact and effects of emerging technologies on creative practices (specifically architecture, design, and the visual arts). We use computational design, digital fabrication, AI, and living materials to create speculative concepts, artworks, and build architectural demonstrators. We focus on both practical and theoretical aspects of the impact of novel tools and materials on artistic and designerly outputs and publish academic research across architecture and design, media art and human-computer interaction. 
+In Art, Technology, Architecture (@A), we conduct research that investigates the impact and effects of emerging technologies on creative practices with a focus on architecture and design. We use computational design, digital fabrication, AI, and living materials to create speculative concepts, artworks, and build architectural demonstrators. We focus on both practical and theoretical aspects of the impact of novel tools and materials on artistic and designerly outputs and publish academic research across architecture and design, media art and human-computer interaction. 
 
 
 ## News
