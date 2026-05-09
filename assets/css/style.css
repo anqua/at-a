@@ -34,7 +34,7 @@ body {
 
 
 header {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
   
 }
 
@@ -218,7 +218,7 @@ h1 {
 }
 
 .site-footer a {
-  color: #000;
+  color: #fff;
   text-decoration: none;
 }
 
