@@ -5,6 +5,8 @@ title: News
 
 ## 2026
 
+- **May 2026** — Spring semester exhibition and symposium at Computational Media and Arts, HKUST-gz showcasing student work across multiple courses.
+
 - **Mar 2026** — Yujie Liu (Jessie), with a background in English literature, just joined @A as an Mphil student. She will work with digital humanities, generative AI, human-computer, and human-animal interaction. Welcome Yujie!
 
 - **Mar 2026** — Lei Han (Simon), master's graduate from HKUST-gz, with a background in fine arts from the Chinese Academy of Fine Art (CAFA) joined @A as a co-supervised PhD student (with prof. David Yip as main supervisor). His work focuses on AI applied to learning about built cultural heritage. Welcome Simon!
@@ -13,7 +15,7 @@ title: News
 
 - **Jan 2026** — Chloe Zhu, a recent master's graduate of Architecture from Chalmers University, just joined @A as a PhD student. She will work on developing a new material system combining Bio-rock technology with reclaimed seashell concrete. Welcome Chloe!
 
-- **Jan 2026** — Lucky John Tutor, recent master's graduate from HKUST-gz, just joined @A as a PhD candidate. He will work on 4D printing actuators for origami/kirigami structures to be used as facade elements Welcome Lucky!
+- **Jan 2026** — Lucky John Tutor, recent master's graduate from HKUST-gz, just joined @A as a PhD candidate. He will work on 4D printing actuators for origami/kirigami structures to be used as facade elements. Welcome Lucky!
 
 ## 2025
 
