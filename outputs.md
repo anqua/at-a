@@ -23,7 +23,7 @@ title: Outputs
 <dl>
 {% assign sorted_confs = site.data.publications | where: "type", "conference" | sort: "year" | reverse %}
 {% for pub in sorted_confs %}
-  <dt>{{ pub.title }}</dt> | {{ pub.year }}
+  <dt>{{ pub.year }} | {{ pub.title }}</dt> 
   <dd>
     {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
     {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
