@@ -6,6 +6,12 @@ title: News
 ## 2026
 
 - **May 2026** — Spring semester exhibition and symposium at Computational Media and Arts, HKUST-gz showcasing student work across multiple courses.
+- [Download the PDF]({{ site.baseurl }}/assets/poster-exhibitions-spring-2026.pdf)
+- <a href="{{ site.baseurl }}/assets/activities/poster-exhibitions-spring-2026.pdf"
+   target="_blank"
+   rel="noopener">
+  Download the PDF
+</a>
 
 - **Mar 2026** — Yujie Liu (Jessie), with a background in English literature, just joined @A as an Mphil student. She will work with digital humanities, generative AI, human-computer, and human-animal interaction. Welcome Yujie!
 
