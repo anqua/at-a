@@ -33,7 +33,8 @@ title: Outputs
 
 </div>
 
-
+<h3>Art and Design Exhibitions</h3>
+2 art exhibitions in the making!
 
 <h3>DATASETS</h3>
 
@@ -51,8 +52,5 @@ title: Outputs
   A dataset containing 2.904 geometries of single-family houses in the form of annotated Point Clouds. The geometries are segmented in 3 classes: wall, roof, floor. The points of the point clouds are saved in .pts files while their labels are saved in .seg files. The dataset can be used to train 3D Generative Adversarial Neural Networks (GANs) for architectural applications, with architecturally relevant data.
 
 ---
-<h3>Art and Design Exhibitions</h3>
-<h3>Software packages</h3>
-<h3>Technical reports</h3>
 
 
