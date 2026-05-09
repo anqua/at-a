@@ -24,7 +24,7 @@
 
 
 body {
-  max-width: 975px;
+  max-width: 1000px;
   margin: 2rem auto;
   padding: 0 1rem;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
@@ -206,7 +206,7 @@ h1 {
   
   background-color: #000; /* black */
   color: #fff;
-  margin-top: 7em;
+  margin-top: 3em;
   padding: 2em 1em;
 }
 
