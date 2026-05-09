@@ -6,7 +6,7 @@ title: News
 ## 2026
 
 - **May 2026** — Spring semester exhibition and symposium at Computational Media and Arts, HKUST-gz showcasing student work across multiple courses.
-<a href="{{ site.baseurl }}/assets/activities/poster-exhibitions-spring-2026.pdf"
+<a href="{{ site.baseurl }}/assets/activities/poster-exhibitions-spring-2026.jpg"
    target="_blank"
    rel="noopener">
   See more here.
