@@ -11,7 +11,7 @@ title: Outputs
 <dl>
 {% assign sorted_journals = site.data.publications | where: "type", "article" | sort: "year" | reverse %}
 {% for pub in sorted_journals %}
-  {{ pub.year }} | <dt>{{ pub.title }}</dt>
+  <dt>{{ pub.year }} | {{ pub.title }}</dt>
   <dd>
     {{ pub.authors }}. <em>{{ pub.journal }}</em>{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
     {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
@@ -23,7 +23,7 @@ title: Outputs
 <dl>
 {% assign sorted_confs = site.data.publications | where: "type", "conference" | sort: "year" | reverse %}
 {% for pub in sorted_confs %}
-  {{ pub.year }} | <dt>{{ pub.title }}</dt> 
+  <dt>{{ pub.year }} | {{ pub.title }}</dt> 
   <dd>
     {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
     {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
