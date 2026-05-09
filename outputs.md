@@ -7,6 +7,7 @@ title: Outputs
 
 <div id="outputs">
 
+
 <h3>JOURNAL ARTICLES</h3>
 <dl>
 {% assign sorted_journals = site.data.publications | where: "type", "article" | sort: "year" | reverse %}
@@ -18,6 +19,7 @@ title: Outputs
   </dd>
 {% endfor %}
 </dl>
+
 
 <h3>CONFERENCE PAPERS</h3>
 <dl>
@@ -33,8 +35,10 @@ title: Outputs
 
 </div>
 
+
 <h3>Art and Design Exhibitions</h3>
 2 art exhibitions in the making!
+
 
 <h3>DATASETS</h3>
 
