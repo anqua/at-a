@@ -8,7 +8,7 @@ title: News
 - **May 2026** — editing a special issue under the theme <a href="https://www.sciencedirect.com/journal/design-and-artificial-intelligence/about/call-for-papers" target="_blank" rel="noopener">Design and Education in the Age of Artificial Intelligence</a> in the journal <a href="https://www.sciencedirect.com/journal/design-and-artificial-intelligence" target="_blank" rel="noopener">Design and Artificial Intelligence</a>. 
 
 - **May 2026** — Spring semester exhibition and symposium at Computational Media and Arts, HKUST-gz showcasing student work across multiple courses.
-<a href="{{ site.baseurl }}/assets/activities/poster-exhibitions-spring-2026.jpg"
+<a href="{{ site.baseurl }}/assets/activities/Poster - exhibitions - symposium.pdf"
    target="_blank"
    rel="noopener">
   See more here.
