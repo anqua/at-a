@@ -1,11 +1,26 @@
-- id: Horvath2025a
-  type: conference
-  authors: "Anca-Simona Horvath and Dimitrios Raptis"
-  title: "How Students in Creative Educations Appropriate Technology: A Phenomenological Analysis"
-  conference: "CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
-  publisher: "Association for Computing Machinery (ACM)"
-  year: 2025
-  doi: "10.1145/3706598.3713667"
+- id: Horvath2026a
+  type: article
+  authors: "Anca-Simona Horvath"
+  title: "Un-disciplinary: Making and staying with the trouble in unstable times"
+  journal: "Artnodes"
+  year: 2026
+  volume: 39
+  doi: "10.7238/artnodes.v0i39.980000018781"
+
+- type: bookchapter
+  authors: "Anca-Simona Horvath"
+  year: 2026
+  title: An Interesting Book Chapter
+  book: AI and Cultural Psychology: Through the looking glass
+  editors: Brown, P. and White, L.
+  publisher: Springer
+
+- type: preprint
+  authors: Anca-Simona Horvath
+  year: 2026
+  title: A New Method for Something
+  server: arXiv
+  identifier: arXiv:2601.12345
 
 - id: Zeng2026
   type: conference
@@ -16,6 +31,15 @@
   year: 2026
   doi: "10.1145/3772363.3798782"
 
+- id: Horvath2025a
+  type: conference
+  authors: "Anca-Simona Horvath and Dimitrios Raptis"
+  title: "How Students in Creative Educations Appropriate Technology: A Phenomenological Analysis"
+  conference: "CHI '25: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+  publisher: "Association for Computing Machinery (ACM)"
+  year: 2025
+  doi: "10.1145/3706598.3713667"
+
 - id: Horvath2025b
   type: article
   authors: "Anca-Simona Horvath and Voinea, Alina Elena and Radu Arieșan"
@@ -25,15 +49,6 @@
   volume: 17
   doi: "10.3390/su17156835"
 
-
-- id: Horvath2026a
-  type: article
-  authors: "Anca-Simona Horvath"
-  title: "Un-disciplinary: Making and staying with the trouble in unstable times"
-  journal: "Artnodes"
-  year: 2026
-  volume: 39
-  doi: "10.7238/artnodes.v0i39.980000018781"
 
 - id: Horvath2024
   type: article
