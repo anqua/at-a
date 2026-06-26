@@ -35,8 +35,41 @@ title: Outputs
 
 </div>
 
+<h3>BOOK CHAPTERS</h3>
+
+<dl>
+{% assign chapters = site.data.publications | where: "type", "bookchapter" | sort: "year" | reverse %}
+{% for pub in chapters %}
+  <dt>{{ pub.authors }} ({{ pub.year }})</dt>
+  <dd>
+    <em>{{ pub.title }}</em>.
+    In <em>{{ pub.book }}</em>.
+    {{ pub.publisher }}.
+  </dd>
+{% endfor %}
+</dl>
+
+<h3>Preprints</h3>
+
+<dl>
+{% assign preprints = site.data.publications | where: "type", "preprint" | sort: "year" | reverse %}
+{% for pub in preprints %}
+  <dt>{{ pub.authors }} ({{ pub.year }})</dt>
+  <dd>
+    <em>{{ pub.title }}</em>.
+    {{ pub.server }}
+    {% if pub.identifier %}
+      ({{ pub.identifier }})
+    {% endif %}
+  </dd>
+{% endfor %}
+</dl>
+
 
 <h3>Art and Design Exhibitions</h3>
+
+
+
 2 art exhibitions in the making!
 
 
