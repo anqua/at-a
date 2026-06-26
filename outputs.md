@@ -38,29 +38,28 @@ title: Outputs
 <h3>BOOK CHAPTERS</h3>
 
 <dl>
-{% assign chapters = site.data.publications | where: "type", "bookchapter" | sort: "year" | reverse %}
-{% for pub in chapters %}
-  <dt>{{ pub.authors }} ({{ pub.year }})</dt>
+
+{% assign sorted_chapters = site.data.publications | where: "type", "bookchapter" | sort: "year" | reverse %}
+{% for pub in sorted_confs %}
+  <dt>{{ pub.year }} | {{ pub.title }}</dt> 
   <dd>
-    <em>{{ pub.title }}</em>.
-    In <em>{{ pub.book }}</em>.
-    {{ pub.publisher }}.
+    {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
+    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
   </dd>
 {% endfor %}
+
 </dl>
 
-<h3>Preprints</h3>
+<h3>PREPRINTS</h3>
 
 <dl>
-{% assign preprints = site.data.publications | where: "type", "preprint" | sort: "year" | reverse %}
-{% for pub in preprints %}
-  <dt>{{ pub.authors }} ({{ pub.year }})</dt>
+
+{% assign sorted_preprints = site.data.publications | where: "type", "preprint" | sort: "year" | reverse %}
+{% for pub in sorted_confs %}
+  <dt>{{ pub.year }} | {{ pub.title }}</dt> 
   <dd>
-    <em>{{ pub.title }}</em>.
-    {{ pub.server }}
-    {% if pub.identifier %}
-      ({{ pub.identifier }})
-    {% endif %}
+    {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
+    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
   </dd>
 {% endfor %}
 </dl>
