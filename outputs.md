@@ -40,10 +40,10 @@ title: Outputs
 <dl>
 
 {% assign sorted_chapters = site.data.publications | where: "type", "bookchapter" | sort: "year" | reverse %}
-{% for pub in sorted_confs %}
+{% for pub in sorted_chapters %}
   <dt>{{ pub.year }} | {{ pub.title }}</dt> 
   <dd>
-    {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
+    {{ pub.authors }}. In <em>{{ pub.chapter }}</em>.
     {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
   </dd>
 {% endfor %}
@@ -55,7 +55,7 @@ title: Outputs
 <dl>
 
 {% assign sorted_preprints = site.data.publications | where: "type", "preprint" | sort: "year" | reverse %}
-{% for pub in sorted_confs %}
+{% for pub in sorted_preprints %}
   <dt>{{ pub.year }} | {{ pub.title }}</dt> 
   <dd>
     {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
