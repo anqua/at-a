@@ -10,17 +10,17 @@
 - type: bookchapter
   authors: "Anca-Simona Horvath"
   year: 2026
-  title: An Interesting Book Chapter
-  book: AI and Cultural Psychology: Through the looking glass
-  editors: Brown, P. and White, L.
-  publisher: Springer
+  title: "An Interesting Book Chapter"
+  book: "AI and Cultural Psychology: Through the looking glass"
+  editors: "Brown, P. and White, L."
+  publisher: "Springer"
 
 - type: preprint
-  authors: Anca-Simona Horvath
+  authors: "Anca-Simona Horvath"
   year: 2026
-  title: A New Method for Something
+  title: "A New Method for Something"
   server: arXiv
-  identifier: arXiv:2601.12345
+  doi: "arXiv:2601.12345"
 
 - id: Zeng2026
   type: conference
