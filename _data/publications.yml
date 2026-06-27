@@ -10,17 +10,25 @@
 - type: bookchapter
   authors: "Anca-Simona Horvath"
   year: 2026
-  title: "An Interesting Book Chapter"
+  title: "Latent-surrealism: Revisiting surrealism and its aesthetics in relation to contemporary AI-Generated cultural production"
   book: "AI and Cultural Psychology: Through the looking glass"
-  editors: "Brown, P. and White, L."
+  editors: "Newton Mota da Silva, Nandita Chaudhary, Marc Campill, Charlotte Marie Thinggaard"
   publisher: "Springer"
 
-- type: preprint
+- type: bookchapter
   authors: "Anca-Simona Horvath"
   year: 2026
-  title: "A New Method for Something"
+  title: "Trans-coding Literature to Architecture with Generative AI: from A Clockwork Orange to conceptual architectures"
+  book: "BEYOND DYSTOPIA : Society, Architecture, and Cinema"
+  editors: "Nely Vînău, Răzvan Mircea Nica, Tiberiu-Teodor Stanciu"
+  publisher: "Gheorghe Asachi Technical University of Iași"
+
+- type: preprint
+  authors: "Anca-Simona Horvath, Cristian Toșa, Simai (Stella) Huang"
+  year: 2026
+  title: "Urban to Rural Migration in Eastern Europe: Unpacking digital ruralities through TikTok video analysis"
   server: arXiv
-  doi: "arXiv:2601.12345"
+  doi: "10.48550/arXiv.2605.00453"
 
 - id: Zeng2026
   type: conference
