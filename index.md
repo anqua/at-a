@@ -3,12 +3,14 @@ layout: default
 title: Home
 ---
 
-In Art, Technology, Architecture (@A), we conduct research that investigates the impact and effects of emerging technologies on creative practices with a focus on architecture and design. We use computational design, digital fabrication, AI, and living materials to create speculative concepts, artworks, and build architectural demonstrators. We focus on both practical and theoretical aspects of the impact of novel tools and materials on artistic and designerly outputs and publish academic research across architecture and design, media art and human-computer interaction. 
+Art, Technology, Architecture (@A) is a research group part of the Computational Media and Arts Thrust at the Hong Kong University of Science and Technology (GZ). We conduct research that investigates the impact and effects of emerging technologies on creative practices with a focus on architecture and design. We use computational design, digital fabrication, AI, and living materials to create speculative concepts, artworks, and build architectural demonstrators. We focus on both practical and theoretical aspects of the impact of novel tools and materials on artistic and designerly outputs and publish academic research across architecture and design, media art and human-computer interaction. 
 
 
 ## News
 
+- *June 2026* — really proud that two of our group members - Yawei and Lei (Simon) successfully presented and defended their PhD qualification examinations and are now on track towards submitting their PhDs.
 
+- *Jun 2026* - it's finally out, after more than three years in the making! check out the special issue on <a href="https://raco.cat/index.php/Artnodes/about/call-for-papers-no-disciplinari" target="_blank" rel="noopener">Un-disciplinary: Entangled ways of seeing, knowing and doing</a> in the journal <a href="https://raco.cat/index.php/Artnodes/about/" target="_blank" rel="noopener">ArtNodes</a>. This builds on the <a href="https://www.youtube.com/watch?v=m4Iat5GsrV0" target="_blank" rel="noopener">Un-disciplinary</a> symposium and art exhibition organized in Aalborg in 2023, and funded by <a href="https://novonordiskfonden.dk/en/" target="_blank" rel="noopener">Novo Nordisk Fonden</a>
 
 - *Mar 2026* — Yujie Liu (Jessie), with a background in English literature, just joined @A as an Mphil student. She will work on digital humanities, generative AI, and human-computer interaction. Welcome Yujie!
 
