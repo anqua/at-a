@@ -5,6 +5,11 @@ title: News
 
 ## 2026
 
+- **June 2026** — really proud that two of our group members - Yawei and Lei (Simon) successfully presented and defended their PhD qualification examinations and are now on track towards submitting their PhDs.
+
+- **Jun 2026** - it's finally out, after more than three years in the making! check out the special issue on <a href="https://raco.cat/index.php/Artnodes/about/call-for-papers-no-disciplinari" target="_blank" rel="noopener">Un-disciplinary: Entangled ways of seeing, knowing and doing</a> in the journal <a href="https://raco.cat/index.php/Artnodes/about/" target="_blank" rel="noopener">ArtNodes</a>. This builds on the <a href="https://www.youtube.com/watch?v=m4Iat5GsrV0" target="_blank" rel="noopener">Un-disciplinary</a> symposium and art exhibition organized in Aalborg in 2023, and funded by <a href="https://novonordiskfonden.dk/en/" target="_blank" rel="noopener">Novo Nordisk Fonden</a>
+
+
 - **May 2026** — editing a special issue under the theme <a href="https://www.sciencedirect.com/journal/design-and-artificial-intelligence/about/call-for-papers" target="_blank" rel="noopener">Design and Education in the Age of Artificial Intelligence</a> in the journal <a href="https://www.sciencedirect.com/journal/design-and-artificial-intelligence" target="_blank" rel="noopener">Design and Artificial Intelligence</a>. 
 
 - **May 2026** — Spring semester exhibition and symposium at Computational Media and Arts, HKUST-gz showcasing student work across multiple courses.
