@@ -23,10 +23,6 @@ title: People
 </div>
 
 ## Graduates:
-Simai (Stella) Huang | 黄思迈 
-
-  role: Research Assistant
-  
-  current role: PhD student Beijing Normal Hong Kong Baptist University
+Simai (Stella) Huang | 黄思迈 (role: Research Assistant / current role: PhD student Beijing Normal Hong Kong Baptist University)
 
 ## Collaborators
