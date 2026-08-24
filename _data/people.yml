@@ -1,6 +1,5 @@
 - name: Anca Horvath
   role: Assistant Professor | Group Lead
-  status: active
   photo: /at-a/assets/images/anca.jpg
   email: ancahorvath@hkust-gz.edu.cn
   website: https://ancah.myportfolio.com/
@@ -8,43 +7,44 @@
 
 - name: Xiaojun (Chloe) Zhu | 朱晓君 
   role: PhD student
-  status: active
   photo: /at-a/assets/images/photo_Chloe.jpg
   email: xzhu895@connect.hkust-gz.edu.cn
   research: "bio-based materials (bio-rock, seashell concrete), salvaged material reuse, digital fabrication, generative AI for design."
 
 - name: Lucky John Tutor
   role: PhD student
-  status: active
   photo: /at-a/assets/images/Logo_AtA.png
   email: ljtutor128@connect.hkust-gz.edu.cn
   research: "digital fabrication, design for sustainability, 4D printing, AI for design, human-computer interaction, human-building interaction."
 
 - name: Yunwei Li | 李昀蔚
-  role: Research Assistant
-  status: active
+  role: PhD student
   photo: /at-a/assets/images/photo_Yunwei.jpg
   email: yunweili@hkust-gz.edu.cn
   research: "design theory, design for play, communication design, visual communication."
-  
-- name: Simai (Stella) Huang | 黄思迈 
-  role: Research Assistant
-  status: graduate
-  photo: /at-a/assets/images/photo_Stella.jpg
-  email: stellasimaih@hkust-gz.edu.cn
-  website: https://huangsimai.com
-  research: "video analysis, art-based research, feminist theory, digital humanities."
+
+- name: Yuliang Kang | 康宇亮
+  role: PhD student
+  photo: /at-a/assets/images/Logo_AtA.png
+  email: yuliangkang.design@gmail.com
+  website: https://yuliang.space/
+  research: "material intellegence, responsive matter, speculative design, more-than-human design."
+
+- name: Siyuan (Sheldon) Chen | 陈思远
+  role: PhD student (part-time)
+  photo: /at-a/assets/images/Sheldon.jpg
+  email: sheldonsyc@hkust-gz.edu.cn
+  research: "construction and demolition, material flow, design for sustainability, design for disassembly, building conservation."
+
 
 - name: Yujie (Jessie) Liu | 刘钰杰
   role: MPhil student
-  status: active
   photo: /at-a/assets/images/Yujie.png
   email: yliu969@connect.hkust-gz.edu.cn
   research: "digital humanities, AI for creativity support, animal-computer interaction, sound & music, critical theory."
   
 - name: Lei (Simon) Han | 韩磊
   role: PhD student
-  status: active
   photo: /at-a/assets/images/simon.jpeg
   email: lhan229@connect.hkust-gz.edu.cn
   website: https://leihan124.github.io/
@@ -52,31 +52,29 @@
 
 - name: Yawei Zhao | 赵雅薇
   role: PhD student
-  status: active
   photo: /at-a/assets/images/photo_Yawei.jpg
   email: yzhao099@connect.hkust-gz.edu.cn
   research: "landscape architecture, VR/AR/MR, art-based research, bio-design."
 
 - name: Yufeg Zeng | 曾钰峰
   role: PhD student
-  status: active
   photo: /at-a/assets/images/Logo_AtA.png
   email: yzeng683@connect.hkust-gz.edu.cn
   research: "creativity support tools, architectural design, design thinking"
 
-- name: Siyuan (Sheldon) Chen | 陈思远
-  role: PhD student
-  status: active
-  photo: /at-a/assets/images/Sheldon.jpg
-  email: sheldonsyc@hkust-gz.edu.cn
-  research: "construction and demolition, material flow, design for sustainability, design for disassembly, building conservation."
-
 
 - name: Xiaojin Liang | 梁晓静
   role: Admin guru
-  status: active
   photo: /at-a/assets/images/Logo_AtA.png
   email: xiaojingliang@hkust-gz.edu.cn
+
+
+- name: Simai (Stella) Huang | 黄思迈 
+  role: Research Assistant
+  photo: /at-a/assets/images/photo_Stella.jpg
+  email: stellasimaih@hkust-gz.edu.cn
+  website: https://huangsimai.com
+  research: "video analysis, art-based research, feminist theory, digital humanities."
 
 
 
