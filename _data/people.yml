@@ -60,15 +60,20 @@
   role: PhD student
   photo: /at-a/assets/images/Logo_AtA.png
   email: yzeng683@connect.hkust-gz.edu.cn
-  research: "creativity support tools, architectural design, design thinking"
+  research: "creativity support tools, architectural design, design thinking."
 
+- name: Qinyan (Olivia) Li | 李沁妍
+  role: PhD student
+  photo: /at-a/assets/images/photo_Olivia.jpg
+  email: qli366@connect.hkust-gz.edu.cn
+  research: "creativity support tools, architectural design, design thinking"
 
 - name: Zhihun Ma | 马志骏
   role: PhD student
   photo: /at-a/assets/images/photo_Zhihun.jpg
   email: zma361@connect.hkust-gz.edu.cn
   webiste: zhijun213.github.io
-  research: "Human-Computer Interaction, Human-AI Collaboration, Interactive Fabrication, Digital Cultural Heritage."
+  research: "human-computer interaction, human-AI collaboration, interactive fabrication, digital cultural heritage."
 
 
 - name: Xiaojin Liang | 梁晓静
