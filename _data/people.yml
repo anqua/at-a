@@ -1,6 +1,6 @@
 - name: Anca Horvath
   role: Assistant Professor | Group Lead
-  photo: /at-a/assets/images/anca.jpg
+  photo: /at-a/assets/images/photo_Anca.jpg
   email: ancahorvath@hkust-gz.edu.cn
   website: https://ancah.myportfolio.com/
   research: "computational design, architectural design, computational fabrication, bio-design, architectural theory, art & science."
@@ -25,27 +25,27 @@
 
 - name: Yuliang Kang | 康宇亮
   role: PhD student
-  photo: /at-a/assets/images/Logo_AtA.png
+  photo: /at-a/assets/images/photo_Yuliang.png
   email: yuliangkang.design@gmail.com
   website: https://yuliang.space/
   research: "material intellegence, responsive matter, speculative design, more-than-human design."
 
 - name: Siyuan (Sheldon) Chen | 陈思远
   role: PhD student (part-time)
-  photo: /at-a/assets/images/Sheldon.jpg
+  photo: /at-a/assets/images/photo_Sheldon.jpg
   email: sheldonsyc@hkust-gz.edu.cn
-  research: "construction and demolition, material flow, design for sustainability, design for disassembly, building conservation."
+  research: "construction and demolition, material flows, design for sustainability, design for disassembly, building conservation."
 
 
 - name: Yujie (Jessie) Liu | 刘钰杰
   role: MPhil student
-  photo: /at-a/assets/images/Yujie.png
+  photo: /at-a/assets/images/photo_Yujie.png
   email: yliu969@connect.hkust-gz.edu.cn
   research: "digital humanities, AI for creativity support, animal-computer interaction, sound & music, critical theory."
   
 - name: Lei (Simon) Han | 韩磊
   role: PhD student
-  photo: /at-a/assets/images/simon.jpeg
+  photo: /at-a/assets/images/photo_Simon.jpeg
   email: lhan229@connect.hkust-gz.edu.cn
   website: https://leihan124.github.io/
   research: "cultural heritage, generative AI, art-based research, interaction design."
@@ -61,6 +61,14 @@
   photo: /at-a/assets/images/Logo_AtA.png
   email: yzeng683@connect.hkust-gz.edu.cn
   research: "creativity support tools, architectural design, design thinking"
+
+
+- name: Zhihun Ma | 曾钰峰
+  role: PhD student
+  photo: /at-a/assets/images/photo_Zhihun.png
+  email: zma361@connect.hkust-gz.edu.cn
+  webiste: zhijun213.github.io
+  research: "Human-Computer Interaction, Human-AI Collaboration, Interactive Fabrication, Digital Cultural Heritage."
 
 
 - name: Xiaojin Liang | 梁晓静
