@@ -3,11 +3,6 @@ layout: default
 title: People
 ---
 
----
-layout: default
-title: People
----
-
 <div id="people">
 {% for person in site.data.people %}
   <div class="person-card">
@@ -27,6 +22,7 @@ title: People
 {% endfor %}
 </div>
 
-## Collaborators
+## Graduates:
+
 
 ## Collaborators
