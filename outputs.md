@@ -42,7 +42,7 @@ title: Outputs
 <p>2 art exhibitions in the making!</p>
 
 <h3>DATASETS</h3>
-<div class="pubs-grid">
+<div class="pubs-grid pubs-grid--datasets">
 {% assign sorted_datasets = site.data.publications | where: "type", "dataset" | sort: "year" | reverse %}
 {% for pub in sorted_datasets %}
   {% include pub-card.html pub=pub %}
