@@ -1,6 +1,8 @@
 - name: Anca Horvath
   role: Assistant Professor | Group Lead
   photo: /at-a/assets/images/photo_Anca.jpg
+  linkedin: https://www.linkedin.com/in/anca-horvath/
+  scholar: https://scholar.google.com/citations?user=zDP7MBUAAAAJ&hl=en
   email: ancahorvath@hkust-gz.edu.cn
   website: https://ancah.myportfolio.com/
   research: "computational design, architectural design, computational fabrication, bio-design, architectural theory, art & science."
@@ -72,7 +74,7 @@
   role: PhD student
   photo: /at-a/assets/images/photo_Zhihun.jpg
   email: zma361@connect.hkust-gz.edu.cn
-  webiste: zhijun213.github.io
+  website: zhijun213.github.io
   research: "human-computer interaction, human-AI collaboration, interactive fabrication, digital cultural heritage."
 
 
