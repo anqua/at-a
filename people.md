@@ -19,7 +19,7 @@ title: People
       {% if person.email %}<a href="mailto:{{ person.email }}">Email</a>{% assign has_prev = true %}{% endif %}
       {% if person.website %}{% if has_prev %} | {% endif %}<a href="{{ person.website }}" target="_blank" rel="noopener">Website</a>{% assign has_prev = true %}{% endif %}
       {% if person.linkedin %}{% if has_prev %} | {% endif %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{% include icon-linkedin.html %}LinkedIn</a>{% assign has_prev = true %}{% endif %}
-      {% if person.scholar %}{% if has_prev %} | {% endif %}<a href="{{ person.scholar }}" target="_blank" rel="noopener">Google Scholar</a>{% assign has_prev = true %}{% endif %}
+      {% if person.scholar %}{% if has_prev %} | {% endif %}<a href="{{ person.scholar }}" target="_blank" rel="noopener">{% include icon-scholar.html %}Google Scholar</a>{% assign has_prev = true %}{% endif %}
     </p>
   </div>
 {% endfor %}

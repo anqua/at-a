@@ -261,7 +261,8 @@ h1 {
   text-decoration: underline;
 }
 
-.icon-linkedin {
+.icon-linkedin,
+.icon-scholar {
   vertical-align: -3px;
   margin-right: 0.3em;
 }
