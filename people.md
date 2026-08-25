@@ -39,7 +39,6 @@ Simai (Stella) Huang \| 黄思迈 (role: Research Assistant / current role: PhD 
 {% for collab in site.data.collaborators %}
   <div class="collab-item">
     <img src="{{ collab.logo }}" alt="{{ collab.name }}" class="collab-logo">
-    <span class="collab-name">{{ collab.name }}</span>
   </div>
 {% endfor %}
 </div>
