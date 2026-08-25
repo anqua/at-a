@@ -1,14 +1,6 @@
 @font-face {
   font-family: "MyGroupFont";
-  src: url("../fonts/MyGroupFont-Regular.woff") format("woff");
-  font-weight: 550;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "MyGroupFont";
-  src: url("../fonts/MyGroupFont-Bold.woff") format("woff");
+  src: url("../fonts/MyGroupFont-Medium.woff") format("woff");
   font-weight: 550;
   font-style: normal;
   font-display: swap;
@@ -49,7 +41,7 @@ header {
   padding: 1.5em 1em;
   display: flex;
   justify-content: space-between;
-  align-items: left;
+  align-items: flex-start;
 }
 
 .site-title a {
