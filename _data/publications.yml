@@ -6,6 +6,7 @@
   year: 2026
   volume: 39
   doi: "10.7238/artnodes.v0i39.980000018781"
+  pdf: /at-a/assets/pdfs/Horvath2026a.pdf
 
 - id: Horvath2026b
   type: bookchapter
@@ -24,6 +25,7 @@
   book: "BEYOND DYSTOPIA : Society, Architecture, and Cinema"
   editors: "Nely Vînău, Răzvan Mircea Nica, Tiberiu-Teodor Stanciu"
   publisher: "Gheorghe Asachi Technical University of Iași"
+  pdf: /at-a/assets/pdfs/Horvath2026c.pdf
 
 - id: Horvath2026d
   type: preprint
@@ -41,6 +43,7 @@
   publisher: "Association for Computing Machinery (ACM)"
   year: 2026
   doi: "10.1145/3772363.3798782"
+  pdf: /at-a/assets/pdfs/Zeng2026.pdf
 
 - id: Zhao2026
   type: conference
@@ -50,6 +53,7 @@
   publisher: "Association for Computing Machinery (ACM)"
   year: 2026
   doi: "10.1145/3803784.3809255"
+  pdf: /at-a/assets/pdfs/Zhao2026.pdf
 
 - id: Zohar2026
   type: conference
@@ -59,6 +63,7 @@
   publisher: "Design Research Society (DRS)"
   year: 2026
   doi: "10.21606/drs.2026.280"
+  pdf: /at-a/assets/pdfs/Zohar2026.pdf
 
 - id: Horvath2025a
   type: conference
@@ -68,6 +73,7 @@
   publisher: "Association for Computing Machinery (ACM)"
   year: 2025
   doi: "10.1145/3706598.3713667"
+  pdf: /at-a/assets/pdfs/Horvath2025a.pdf
 
 - id: Horvath2025b
   type: article
@@ -77,6 +83,7 @@
   year: 2025
   volume: 17
   doi: "10.3390/su17156835"
+  pdf: /at-a/assets/pdfs/Horvath2025b.pdf
 
 
 - id: Horvath2024
@@ -87,6 +94,7 @@
   year: 2024
   volume: 13
   doi: "10.1016/j.foar.2024.02.006"
+  pdf: /at-a/assets/pdfs/Horvath2024.pdf
 
 - id: Horvath2022a
   type: dataset
