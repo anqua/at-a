@@ -22,7 +22,7 @@ body {
   font-family: "Manrope", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.6;
   color: #222;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32'%3E%3Cpath d='M16 13v6M13 16h6' stroke='%23d6d6d6' stroke-width='1.25'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Cpath d='M32 29v6M29 32h6' stroke='%23d6d6d6' stroke-width='1.25'/%3E%3C/svg%3E");
   background-repeat: repeat;
   background-attachment: fixed;
 }
@@ -299,6 +299,8 @@ h1 {
 
 .site-footer {
   background-color: #000; /* black */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Cpath d='M32 29v6M29 32h6' stroke='%233a3a3a' stroke-width='1.25'/%3E%3C/svg%3E");
+  background-repeat: repeat;
   color: #fff;
   margin-top: 3em;
   min-height: var(--bar-height);
