@@ -1,3 +1,7 @@
+:root {
+  --content-width: 1150px;
+}
+
 @font-face {
   font-family: "MyGroupFont";
   src: url("../fonts/MyGroupFont-Medium.woff") format("woff");
@@ -16,7 +20,7 @@
 
 
 body {
-  max-width: 1000px;
+  max-width: var(--content-width);
   margin: 3rem auto;
   padding: 0 1rem;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
@@ -36,7 +40,7 @@ header {
 }
 
 .header-inner {
-  max-width: 950px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 1.5em 1em;
   display: flex;
@@ -121,8 +125,8 @@ h1 {
 }
 
 .pubs-grid {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(480px, 100%), 1fr));
   gap: 1.5em;
   margin: 1em 0 2em;
 }
@@ -130,7 +134,6 @@ h1 {
 .pub-card {
   display: flex;
   gap: 1em;
-  width: calc(50% - 0.75em);
   border: 1px solid #ccc;
   border-radius: 8px;
   padding: 1em;
@@ -210,7 +213,6 @@ h1 {
 
 @media (max-width: 768px) {
   .pub-card {
-    width: 100%;
     flex-direction: column;
   }
 
@@ -221,7 +223,7 @@ h1 {
 }
 
 #people {
-  max-width: 1000px;
+  max-width: var(--content-width);
   margin: 0 auto;
   padding: 1em;
   display: flex;
@@ -282,7 +284,7 @@ h1 {
 }
 
 .footer-inner {
-  max-width: 1000px;
+  max-width: var(--content-width);
   margin: 0 auto;
   font-size: 0.55em;
   line-height: 1.6;
