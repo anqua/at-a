@@ -261,6 +261,11 @@ h1 {
   text-decoration: underline;
 }
 
+.icon-linkedin {
+  vertical-align: -3px;
+  margin-right: 0.3em;
+}
+
 @media (max-width: 768px) {
   .person-card {
     width: 100%;
