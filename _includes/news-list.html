@@ -1,0 +1,10 @@
+{% assign years = site.data.news | map: "year" | uniq | sort | reverse %}
+{% for y in years %}
+<h2>{{ y }}</h2>
+<ul>
+{% assign items = site.data.news | where: "year", y %}
+{% for item in items %}
+  <li><strong>{{ item.date }}</strong> — {{ item.html }}</li>
+{% endfor %}
+</ul>
+{% endfor %}
