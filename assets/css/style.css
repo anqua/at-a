@@ -2,6 +2,12 @@
   --content-width: 1150px;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 @font-face {
   font-family: "Molgan";
   src: url("../fonts/MolganRegular-YqWj2.woff") format("woff");
@@ -15,7 +21,7 @@ body {
   font-family: "Manrope", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.6;
   color: #222;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36'%3E%3Cpath d='M18 15v6M15 18h6' stroke='%23bfbfbf' stroke-width='1.25'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Cpath d='M32 29v6M29 32h6' stroke='%23bfbfbf' stroke-width='1.25'/%3E%3C/svg%3E");
   background-repeat: repeat;
 }
 
@@ -32,13 +38,15 @@ header {
 
 .site-header {
   background-color: #000;   /* black */
+  border-top: 2px solid #fff;
   border-bottom: 2px solid #222;
+  padding: 0 1em;
 }
 
 .header-inner {
   max-width: var(--content-width);
   margin: 0 auto;
-  padding: 1.5em 1em;
+  padding: 1.5em 0;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -131,6 +139,7 @@ h1 {
 .pub-card {
   display: flex;
   gap: 1em;
+  background: #fff;
   border: 1px solid #ccc;
   border-radius: 8px;
   padding: 1em;
@@ -230,6 +239,7 @@ h1 {
 }
 
 .person-card {
+  background: #fff;
   border: 1px solid #ccc;
   padding: 1em;
   width: 27.5%;
@@ -284,11 +294,11 @@ h1 {
 }
 
 .site-footer {
-  
   background-color: #000; /* black */
   color: #fff;
   margin-top: 3em;
   padding: 2em 1em;
+  border-bottom: 2px solid #fff;
 }
 
 .footer-inner {
