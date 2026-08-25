@@ -1,6 +1,7 @@
 :root {
   --content-width: 1150px;
   --bar-height: 190px;
+  --footer-height: 285px;
 }
 
 *,
@@ -22,7 +23,7 @@ body {
   font-family: "Manrope", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.6;
   color: #222;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Cpath d='M32 29v6M29 32h6' stroke='%23d6d6d6' stroke-width='1.25'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Cpath d='M50 47v6M47 50h6' stroke='%23e6e6e6' stroke-width='1.25'/%3E%3C/svg%3E");
   background-repeat: repeat;
   background-attachment: fixed;
 }
@@ -145,7 +146,6 @@ h1 {
   gap: 1em;
   background: #fff;
   border: 1px solid #ccc;
-  border-radius: 8px;
   padding: 1em;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
@@ -248,7 +248,6 @@ h1 {
   padding: 1em;
   width: 27.5%;
   text-align: center;
-  border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
@@ -303,7 +302,7 @@ h1 {
   background-repeat: repeat;
   color: #fff;
   margin-top: 3em;
-  min-height: var(--bar-height);
+  min-height: var(--footer-height);
   padding: 0 2em;
   display: flex;
   align-items: center;
