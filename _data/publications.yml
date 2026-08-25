@@ -42,6 +42,24 @@
   year: 2026
   doi: "10.1145/3772363.3798782"
 
+- id: Zhao2026
+  type: conference
+  authors: "Yawei Zhao, Zheng Yuan, Jiang Ke, Zuona Chen, Jieyu Wang, Anca Simona Horvath, Pan Hui"
+  title: "The Blooming Archive"
+  conference: "C&C 2026 - Proceedings of the 2026 Conference on Creativity and Cognition"
+  publisher: "Association for Computing Machinery (ACM)"
+  year: 2026
+  doi: "10.1145/3803784.3809255"
+
+- id: Zohar2026
+  type: conference
+  authors: "Hadas Zohar, Amalia de Götzen, Anca-Simona Horvath"
+  title: "Extended Directions in Design Research"
+  conference: "Design Research Society 2026"
+  publisher: "Design Research Society (DRS)"
+  year: 2026
+  doi: "10.21606/drs.2026.280"
+
 - id: Horvath2025a
   type: conference
   authors: "Anca-Simona Horvath and Dimitrios Raptis"
