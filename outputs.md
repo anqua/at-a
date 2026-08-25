@@ -3,90 +3,80 @@ layout: default
 title: Outputs
 ---
 
-
-
 <div id="outputs">
 
-
 <h3>JOURNAL ARTICLES</h3>
-<dl>
+<div class="pubs-grid">
 {% assign sorted_journals = site.data.publications | where: "type", "article" | sort: "year" | reverse %}
 {% for pub in sorted_journals %}
-  <dt>{{ pub.year }} | {{ pub.title }}</dt>
-  <dd>
-    {{ pub.authors }}. <em>{{ pub.journal }}</em>{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
-    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-  </dd>
+  {% include pub-card.html pub=pub %}
 {% endfor %}
-</dl>
-
+</div>
 
 <h3>CONFERENCE PAPERS</h3>
-<dl>
+<div class="pubs-grid">
 {% assign sorted_confs = site.data.publications | where: "type", "conference" | sort: "year" | reverse %}
 {% for pub in sorted_confs %}
-  <dt>{{ pub.year }} | {{ pub.title }}</dt> 
-  <dd>
-    {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
-    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-  </dd>
+  {% include pub-card.html pub=pub %}
 {% endfor %}
-</dl>
-
 </div>
 
 <h3>BOOK CHAPTERS</h3>
-
-<dl>
-
+<div class="pubs-grid">
 {% assign sorted_chapters = site.data.publications | where: "type", "bookchapter" | sort: "year" | reverse %}
 {% for pub in sorted_chapters %}
-  <dt>{{ pub.year }} | {{ pub.title }}</dt> 
-  <dd>
-    {{ pub.authors }}. In <em>{{ pub.chapter }}</em>.
-    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-  </dd>
+  {% include pub-card.html pub=pub %}
 {% endfor %}
-
-</dl>
+</div>
 
 <h3>PREPRINTS</h3>
-
-<dl>
-
+<div class="pubs-grid">
 {% assign sorted_preprints = site.data.publications | where: "type", "preprint" | sort: "year" | reverse %}
 {% for pub in sorted_preprints %}
-  <dt>{{ pub.year }} | {{ pub.title }}</dt> 
-  <dd>
-    {{ pub.authors }}. In <em>{{ pub.conference }}</em>.
-    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-  </dd>
+  {% include pub-card.html pub=pub %}
 {% endfor %}
-</dl>
-
+</div>
 
 <h3>Art and Design Exhibitions</h3>
 
-
-
-2 art exhibitions in the making!
-
+<p>2 art exhibitions in the making!</p>
 
 <h3>DATASETS</h3>
+<div class="pubs-grid">
+{% assign sorted_datasets = site.data.publications | where: "type", "dataset" | sort: "year" | reverse %}
+{% for pub in sorted_datasets %}
+  {% include pub-card.html pub=pub %}
+{% endfor %}
+</div>
 
+</div>
 
-- **ComPara: A Corpus Linguistics Dataset of Computation in Architecture**  
-| 2022 | Anca-Simona Horvath. Mendeley Data <a href="https://doi.org/10.17632/7ktscvmxvg.5" target="_blank">DOI</a>
-  
-  A dataset containing titles of journal issues, and article titles from the journal Architectural Design (2005-2024) and the titles and abstracts of winning projects and honourable mentions of the eVolo skyscraper competition (2006-2024). This can be used in promt engineering or in training AI models with language that is specific to the field of architecture.
+<script>
+document.addEventListener('click', function (e) {
+  var toggleBtn = e.target.closest('.pub-bibtex-toggle');
+  if (toggleBtn) {
+    var target = document.getElementById(toggleBtn.dataset.target);
+    if (!target) return;
+    if (target.hasAttribute('hidden')) {
+      target.removeAttribute('hidden');
+      toggleBtn.textContent = 'Hide BibTeX';
+    } else {
+      target.setAttribute('hidden', '');
+      toggleBtn.textContent = 'BibTeX';
+    }
+    return;
+  }
 
-
-
-- **Annotated Point Clouds of Buildings: A segmented dataset of single-family houses**  
-| 2022 | Panagiota Pouliou, Anca-Simona Horvath, George Palamas. Mendeley Data. <a href="https://doi.org/10.17632/3thtp7mc6z.1" target="_blank">DOI</a>
-
-  A dataset containing 2.904 geometries of single-family houses in the form of annotated Point Clouds. The geometries are segmented in 3 classes: wall, roof, floor. The points of the point clouds are saved in .pts files while their labels are saved in .seg files. The dataset can be used to train 3D Generative Adversarial Neural Networks (GANs) for architectural applications, with architecturally relevant data.
-
-
-
-
+  var copyBtn = e.target.closest('.pub-copy');
+  if (copyBtn) {
+    var pre = document.getElementById(copyBtn.dataset.target);
+    if (pre && navigator.clipboard) {
+      navigator.clipboard.writeText(pre.textContent.trim()).then(function () {
+        var original = copyBtn.textContent;
+        copyBtn.textContent = 'Copied!';
+        setTimeout(function () { copyBtn.textContent = original; }, 1500);
+      });
+    }
+  }
+});
+</script>

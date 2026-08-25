@@ -1,0 +1,76 @@
+{% assign pub = include.pub %}
+{% assign open_brace = "{" %}
+{% capture bibtex %}{%- case pub.type -%}
+  {%- when "article" -%}
+@article{{ open_brace }}{{ pub.id }},
+  author  = {{ open_brace }}{{ pub.authors }}},
+  title   = {{ open_brace }}{{ pub.title }}},
+  journal = {{ open_brace }}{{ pub.journal }}}{% if pub.volume %},
+  volume  = {{ open_brace }}{{ pub.volume }}}{% endif %}{% if pub.pages %},
+  pages   = {{ open_brace }}{{ pub.pages }}}{% endif %},
+  year    = {{ open_brace }}{{ pub.year }}}{% if pub.doi %},
+  doi     = {{ open_brace }}{{ pub.doi }}}{% endif %}
+}
+  {%- when "conference" -%}
+@inproceedings{{ open_brace }}{{ pub.id }},
+  author    = {{ open_brace }}{{ pub.authors }}},
+  title     = {{ open_brace }}{{ pub.title }}},
+  booktitle = {{ open_brace }}{{ pub.conference }}},
+  publisher = {{ open_brace }}{{ pub.publisher }}},
+  year      = {{ open_brace }}{{ pub.year }}}{% if pub.doi %},
+  doi       = {{ open_brace }}{{ pub.doi }}}{% endif %}
+}
+  {%- when "bookchapter" -%}
+@incollection{{ open_brace }}{{ pub.id }},
+  author    = {{ open_brace }}{{ pub.authors }}},
+  title     = {{ open_brace }}{{ pub.title }}},
+  booktitle = {{ open_brace }}{{ pub.book }}}{% if pub.editors %},
+  editor    = {{ open_brace }}{{ pub.editors }}}{% endif %},
+  publisher = {{ open_brace }}{{ pub.publisher }}},
+  year      = {{ open_brace }}{{ pub.year }}}
+}
+  {%- when "preprint" -%}
+@misc{{ open_brace }}{{ pub.id }},
+  author       = {{ open_brace }}{{ pub.authors }}},
+  title        = {{ open_brace }}{{ pub.title }}},
+  year         = {{ open_brace }}{{ pub.year }}},
+  howpublished = {{ open_brace }}{{ pub.server }}}{% if pub.doi %},
+  doi          = {{ open_brace }}{{ pub.doi }}}{% endif %}
+}
+  {%- when "dataset" -%}
+@misc{{ open_brace }}{{ pub.id }},
+  author    = {{ open_brace }}{{ pub.authors }}},
+  title     = {{ open_brace }}{{ pub.title }}},
+  year      = {{ open_brace }}{{ pub.year }}},
+  publisher = {{ open_brace }}{{ pub.publisher }}}{% if pub.doi %},
+  doi       = {{ open_brace }}{{ pub.doi }}}{% endif %},
+  note      = {{ open_brace }}Dataset}
+}
+  {%- endcase -%}{% endcapture %}
+<div class="pub-card">
+  <img class="pub-thumb" src="{% if pub.image %}{{ pub.image }}{% else %}/at-a/assets/images/Logo_AtA.png{% endif %}" alt="{{ pub.title | escape }}">
+  <div class="pub-body">
+    <h4 class="pub-title">{{ pub.title }}</h4>
+    <p class="pub-meta">
+      {{ pub.authors }}.
+      {%- case pub.type %}
+        {%- when "article" %} <em>{{ pub.journal }}</em>{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
+        {%- when "conference" %} In <em>{{ pub.conference }}</em>.
+        {%- when "bookchapter" %} In <em>{{ pub.book }}</em>{% if pub.editors %}, eds. {{ pub.editors }}{% endif %}, {{ pub.publisher }}.
+        {%- when "preprint" %} <em>{{ pub.server }}</em> preprint.
+        {%- when "dataset" %} {{ pub.publisher }}.
+      {%- endcase %}
+      {{ pub.year }}.
+    </p>
+    {% if pub.description %}<p class="pub-desc">{{ pub.description }}</p>{% endif %}
+    <div class="pub-actions">
+      {% if pub.doi %}<a class="pub-btn" href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+      {% if pub.pdf %}<a class="pub-btn" href="{{ pub.pdf }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+      <button type="button" class="pub-btn pub-bibtex-toggle" data-target="bibtex-{{ pub.id }}">BibTeX</button>
+    </div>
+    <div class="pub-bibtex" id="bibtex-{{ pub.id }}" hidden>
+      <pre id="bibtex-text-{{ pub.id }}">{{ bibtex | strip }}</pre>
+      <button type="button" class="pub-btn pub-copy" data-target="bibtex-text-{{ pub.id }}">Copy</button>
+    </div>
+  </div>
+</div>
