@@ -267,7 +267,9 @@ h1 {
 }
 
 .icon-linkedin,
-.icon-scholar {
+.icon-scholar,
+.icon-email,
+.icon-website {
   vertical-align: -3px;
   margin-right: 0.3em;
 }
