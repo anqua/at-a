@@ -7,7 +7,8 @@
   volume: 39
   doi: "10.7238/artnodes.v0i39.980000018781"
 
-- type: bookchapter
+- id: Horvath2026b
+  type: bookchapter
   authors: "Anca-Simona Horvath"
   year: 2026
   title: "Latent-surrealism: Revisiting surrealism and its aesthetics in relation to contemporary AI-Generated cultural production"
@@ -15,7 +16,8 @@
   editors: "Newton Mota da Silva, Nandita Chaudhary, Marc Campill, Charlotte Marie Thinggaard"
   publisher: "Springer"
 
-- type: bookchapter
+- id: Horvath2026c
+  type: bookchapter
   authors: "Anca-Simona Horvath"
   year: 2026
   title: "Trans-coding Literature to Architecture with Generative AI: from A Clockwork Orange to conceptual architectures"
@@ -23,7 +25,8 @@
   editors: "Nely Vînău, Răzvan Mircea Nica, Tiberiu-Teodor Stanciu"
   publisher: "Gheorghe Asachi Technical University of Iași"
 
-- type: preprint
+- id: Horvath2026d
+  type: preprint
   authors: "Anca-Simona Horvath, Cristian Toșa, Simai (Stella) Huang"
   year: 2026
   title: "Urban to Rural Migration in Eastern Europe: Unpacking digital ruralities through TikTok video analysis"
