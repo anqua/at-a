@@ -414,7 +414,7 @@ h1 {
 
 .footer-logo-hkustcma {
   max-width: 100%;
-  max-height: 3.2rem;
+  max-height: 5rem;
   width: auto;
   height: auto;
   filter: brightness(0) invert(1);
@@ -422,7 +422,7 @@ h1 {
 
 .footer-logo-ata {
   max-width: 100%;
-  max-height: 4.5rem;
+  max-height: 7rem;
   width: auto;
   height: auto;
 }
@@ -444,8 +444,8 @@ h1 {
 
 .footer-social-link .icon-linkedin,
 .footer-social-link .icon-instagram {
-  width: 22px;
-  height: 22px;
+  width: 32px;
+  height: 32px;
   color: #fff;
 }
 
