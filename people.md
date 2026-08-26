@@ -33,7 +33,7 @@ Simai (Stella) Huang \| 黄思迈 (role: Research Assistant / current role: PhD 
 
 </div>
 
-## Collaborators
+## Academic friends and collaborators
 
 <div id="collaborators">
 {% for collab in site.data.collaborators %}

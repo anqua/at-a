@@ -32,6 +32,14 @@
   website: https://yuliang.space/
   research: "material intellegence, responsive matter, speculative design, more-than-human design."
 
+- name: Zahid Hasan
+  role: PhD student
+  photo: /at-a/assets/images/photo_Zahid.jpg
+  email: mzhasan517@connect.hkust-gz.edu.cn
+  linkedin: https://www.linkedin.com/in/md-zahid-csed
+  scholar: https://scholar.google.com/citations?user=m5_-hKQAAAAJ&hl=en
+  research: "smart materials, functional nanocomposites, sustainable materials, flexible electronics, wearable sensors, intelligent sensing, sensor data analytics, human-computer interaction."
+
 - name: Siyuan (Sheldon) Chen | 陈思远
   role: PhD student (part-time)
   photo: /at-a/assets/images/photo_Sheldon.jpg
@@ -82,11 +90,3 @@
   role: Admin guru
   photo: /at-a/assets/images/Logo_AtA.png
   email: xiaojingliang@hkust-gz.edu.cn
-
-- name: Zahid Hasan
-  role: PhD student
-  photo: /at-a/assets/images/photo_Zahid.jpg
-  email: mzhasan517@connect.hkust-gz.edu.cn
-  linkedin: https://www.linkedin.com/in/md-zahid-csed
-  scholar: https://scholar.google.com/citations?user=m5_-hKQAAAAJ&hl=en
-  research: "smart materials, functional nanocomposites, sustainable materials, flexible electronics, wearable sensors, intelligent sensing, sensor data analytics, human-computer interaction."
