@@ -389,7 +389,13 @@ h1 {
   font-family: "Molgan", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 2em;
   font-weight: 400;
-  text-align: center;
+  line-height: 1.3;
+  text-align: left;
+}
+
+.footer-col-side.footer-brand {
+  flex-direction: row;
+  gap: 1em;
 }
 
 .footer-grid {
