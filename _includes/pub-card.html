@@ -55,9 +55,9 @@
       {{ pub.authors }}.<br>
       <span class="pub-venue">
       {%- case pub.type %}
-        {%- when "article" %} <em>{{ pub.journal }}</em>{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
-        {%- when "conference" %} In <em>{{ pub.conference }}</em>.
-        {%- when "bookchapter" %} In <em>{{ pub.book }}</em>{% if pub.editors %}, eds. {{ pub.editors }}{% endif %}, {{ pub.publisher }}.
+        {%- when "article" %} <em>{{ pub.journal }}</em>{% if pub.volume %}<span class="pub-venue-normal">, vol. {{ pub.volume }}</span>{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
+        {%- when "conference" %} <em>{{ pub.conference }}</em>.
+        {%- when "bookchapter" %} In <em>{{ pub.book }}</em>{% unless pub.editors %}, {{ pub.publisher }}{% endunless %}.{% if pub.editors %}<br><span class="pub-venue-normal">eds. {{ pub.editors }}, {{ pub.publisher }}.</span>{% endif %}
         {%- when "preprint" %} <em>{{ pub.server }}</em> preprint.
         {%- when "dataset" %} {{ pub.publisher }}.
       {%- endcase %}
