@@ -401,20 +401,10 @@ h1 {
 }
 
 .footer-contact {
-  flex: 1.5 1 260px;
-  min-width: 220px;
-}
-
-.footer-heading {
-  font-weight: 600;
-  font-size: 1rem;
-  margin: 0 0 0.6em;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.footer-email {
-  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1 160px;
 }
 
 .footer-col-center,
@@ -442,26 +432,11 @@ h1 {
   height: auto;
 }
 
-.footer-social {
-  margin-top: 1em;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.2em;
-}
-
 .footer-social-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5em;
   font-size: 1rem;
   font-weight: 600;
-}
-
-.footer-social-link .icon-linkedin,
-.footer-social-link .icon-instagram {
-  width: 32px;
-  height: 32px;
-  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
 }
 
 @media (max-width: 768px) {
