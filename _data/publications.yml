@@ -16,6 +16,17 @@
   book: "AI and Cultural Psychology: Through the looking glass"
   editors: "Newton Mota da Silva, Nandita Chaudhary, Marc Campill, Charlotte Marie Thinggaard"
   publisher: "Springer"
+  pdf: "https://vbn.aau.dk/ws/portalfiles/portal/835017471/Latent_-_surrealism_6-3-2026.pdf"
+
+- id: Horvath2026e
+  type: bookchapter
+  authors: "Anca-Simona Horvath"
+  year: 2026
+  title: "Words, Spaces and Generative AI: Layers of language in contemporary architecture"
+  book: "Routledge Companion for Artificial Intelligence in Architecture"
+  editors: "Orkan Zeynel Güzelci, Imdat As"
+  publisher: "Routledge"
+  pdf: "https://vbn.aau.dk/ws/portalfiles/portal/851670417/Layers_of_Language_as_design_material.pdf"
 
 - id: Horvath2026c
   type: bookchapter
