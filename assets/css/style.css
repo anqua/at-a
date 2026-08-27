@@ -186,6 +186,10 @@ h1 {
   color: #333;
 }
 
+.pub-venue {
+  font-weight: 600;
+}
+
 .pub-desc {
   margin: 0 0 0.5em;
   font-size: 0.9em;

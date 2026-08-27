@@ -52,7 +52,8 @@
   <div class="pub-body">
     <h4 class="pub-title">{{ pub.title }}</h4>
     <p class="pub-meta">
-      {{ pub.authors }}.
+      {{ pub.authors }}.<br>
+      <span class="pub-venue">
       {%- case pub.type %}
         {%- when "article" %} <em>{{ pub.journal }}</em>{% if pub.volume %}, vol. {{ pub.volume }}{% endif %}{% if pub.pages %}, pp. {{ pub.pages }}{% endif %}.
         {%- when "conference" %} In <em>{{ pub.conference }}</em>.
@@ -60,6 +61,7 @@
         {%- when "preprint" %} <em>{{ pub.server }}</em> preprint.
         {%- when "dataset" %} {{ pub.publisher }}.
       {%- endcase %}
+      </span>
       {{ pub.year }}.
     </p>
     {% if pub.description %}<p class="pub-desc">{{ pub.description }}</p>{% endif %}
