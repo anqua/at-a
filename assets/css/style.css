@@ -318,6 +318,10 @@ h1 {
   text-align: center;
 }
 
+.section-heading-center {
+  text-align: center;
+}
+
 #collaborators {
   max-width: var(--content-width);
   margin: 1.5em auto 0;
@@ -377,7 +381,7 @@ h1 {
   font-family: "Molgan", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 2em;
   font-weight: 400;
-  margin-bottom: 0.8em;
+  text-align: center;
 }
 
 .footer-grid {
@@ -399,16 +403,23 @@ h1 {
 
 .footer-heading {
   font-weight: 600;
+  font-size: 1rem;
   margin: 0 0 0.6em;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 
+.footer-email {
+  font-size: 1rem;
+}
+
 .footer-col-center,
 .footer-col-side {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
+  gap: 0.6em;
   flex: 1 1 160px;
 }
 
