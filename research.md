@@ -3,8 +3,6 @@ layout: default
 title: Research
 ---
 
-## Research Themes
-
 <div class="research-images">
   <img src="/at-a/assets/images/research/Area%20of%20research-01.png" alt="Diagram positioning the group's research at the intersection of Art & Humanities, Technology, and Architecture">
   <img src="/at-a/assets/images/research/Area%20of%20research-03.png" alt="Diagram detailing the group's research areas across Art & Technology, Art & Architecture, and Architecture & Technology">
