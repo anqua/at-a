@@ -14,6 +14,11 @@ We publish across the following fields: architecture&design, human-computer inte
 
 We also exhibit designs and artworks in various venues.
 
+<div class="research-images">
+  <img src="/at-a/assets/images/research/Area%20of%20research-01.png" alt="Diagram positioning the group's research at the intersection of Art & Humanities, Technology, and Architecture">
+  <img src="/at-a/assets/images/research/Area%20of%20research-03.png" alt="Diagram detailing the group's research areas across Art & Technology, Art & Architecture, and Architecture & Technology">
+</div>
+
 ### Computational and AI tools for architecture and design
 Investigating practical and theoretical implications of computational tools (including AI) on design processes. 
 We ask questions such as: how do computation and AI change creative processes? What kind of things can we design with computation that could not be designed without it? What and how do we think through computational tools? In short - what is there to gain and what is to lose from the on-going retooling of these creative professions?

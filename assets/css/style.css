@@ -109,6 +109,22 @@ h1 {
   margin-bottom: 0.6em;
 }
 
+.research-images {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(400px, 100%), 1fr));
+  gap: 1.5em;
+  margin: 1.5em 0 2em;
+}
+
+.research-images img {
+  width: 100%;
+  height: auto;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  padding: 0.5em;
+}
+
 .news-list {
   margin-top: 1em;
 }
