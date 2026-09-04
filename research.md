@@ -8,7 +8,7 @@ title: Research
   <img src="/at-a/assets/images/research/Area%20of%20research-03.png" alt="Diagram detailing the group's research areas across Art & Technology, Art & Architecture, and Architecture & Technology">
 </div>
 
-Our group conducts research at the intersections of art, technology and architecture with a focus on design for sustainability. We publish across architecture&design, media art and human-computer interaction. We also build and exhibit demonstrators, designs and artworks which we exhibit in venues around the world.
+Our group conducts research at the intersections of art, technology and architecture with a focus on design for sustainability. We publish across architecture&design, media art and human-computer interaction. We also build demonstrators, designs and artworks which we exhibit in venues around the world.
 
 ### Computational and AI tools for architecture and design
 Investigating practical and theoretical implications of computational tools (including AI) on design processes. 
