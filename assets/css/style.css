@@ -115,7 +115,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 3em;
+  gap: 5em;
 }
 
 .research-images img {
