@@ -8,15 +8,7 @@ title: Research
   <img src="/at-a/assets/images/research/Area%20of%20research-03.png" alt="Diagram detailing the group's research areas across Art & Technology, Art & Architecture, and Architecture & Technology">
 </div>
 
-We conduct research on the following directions: 
-(a) computational tools (including AI) for design and architecture and 
-(b) digital fabrication using natural materials for design and architecture. 
-
-Design for sustainability is an important concern in our research. 
-
-We publish across the following fields: architecture&design, human-computer interaction, media art.
-
-We also exhibit designs and artworks in various venues.
+Our group conducts research at the intersections of art, technology and architecture with a focus on design for sustainability. We publish across architecture&design, media art and human-computer interaction. We also build and exhibit demonstrators, designs and artworks which we exhibit in venues around the world.
 
 ### Computational and AI tools for architecture and design
 Investigating practical and theoretical implications of computational tools (including AI) on design processes. 
