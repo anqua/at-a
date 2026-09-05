@@ -11,6 +11,9 @@ Our group conducts research at the intersections of art, technology and architec
     <span class="research-diagram-label" style="left:27.5%; top:32.4%;">Art & Humanities</span>
     <span class="research-diagram-label" style="left:74.7%; top:33%;">Technology</span>
     <span class="research-diagram-label" style="left:50.2%; top:88.7%;">Architecture</span>
+    <span class="research-diagram-number" style="left:50.2%; top:0.9%; transform:translate(-50%,-160%);">I</span>
+    <span class="research-diagram-number" style="left:1.2%; top:47.2%; transform:translate(-170%,-50%);">II</span>
+    <span class="research-diagram-number" style="left:98.8%; top:45.8%; transform:translate(70%,-50%);">III</span>
   </div>
 </div>
 
@@ -23,7 +26,7 @@ Our group conducts research at the intersections of art, technology and architec
         <img src="/at-a/assets/images/research/icon-arttech-pentool.png" alt="">
         <img src="/at-a/assets/images/research/icon-arttech-brain.png" alt="">
       </div>
-      <h4>Art & Humanities <span class="research-x">&times;</span> Technology</h4>
+      <h4><span class="research-card-number">I</span> Art & Humanities <span class="research-x">&times;</span> Technology</h4>
       <ul>
         <li>Digital humanities</li>
         <li>Technology-mediated experiences</li>
@@ -40,7 +43,7 @@ Our group conducts research at the intersections of art, technology and architec
         <img src="/at-a/assets/images/research/icon-artarch-frame.png" alt="">
         <img src="/at-a/assets/images/research/icon-artarch-sweep.png" alt="">
       </div>
-      <h4>Art & Humanities <span class="research-x">&times;</span> Architecture</h4>
+      <h4><span class="research-card-number">II</span> Art & Humanities <span class="research-x">&times;</span> Architecture</h4>
       <ul>
         <li>Art in public space</li>
         <li>Artistic methods in architecture</li>
@@ -54,7 +57,7 @@ Our group conducts research at the intersections of art, technology and architec
         <img src="/at-a/assets/images/research/icon-archtech-arm.png" alt="">
         <img src="/at-a/assets/images/research/icon-archtech-house.png" alt="">
       </div>
-      <h4>Technology <span class="research-x">&times;</span> Architecture</h4>
+      <h4><span class="research-card-number">III</span> Technology <span class="research-x">&times;</span> Architecture</h4>
       <ul>
         <li>Computational design for architecture</li>
         <li>Construction robotics</li>
