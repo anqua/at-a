@@ -12,8 +12,8 @@ Our group conducts research at the intersections of art, technology and architec
     <span class="research-diagram-label" style="left:74.7%; top:33%;">Technology</span>
     <span class="research-diagram-label" style="left:50.2%; top:88.7%;">Architecture</span>
     <span class="research-diagram-number" style="left:50.2%; top:0.9%; transform:translate(-50%,-160%);">I</span>
-    <span class="research-diagram-number" style="left:1.2%; top:47.2%; transform:translate(-170%,-50%);">II</span>
-    <span class="research-diagram-number" style="left:98.8%; top:45.8%; transform:translate(70%,-50%);">III</span>
+    <span class="research-diagram-number" style="left:12%; top:80.4%; transform:translate(-140%,20%);">II</span>
+    <span class="research-diagram-number" style="left:88.9%; top:81.5%; transform:translate(40%,20%);">III</span>
   </div>
 </div>
 
