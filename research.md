@@ -16,6 +16,8 @@ Our group conducts research at the intersections of art, technology and architec
     <circle cx="380" cy="220" r="170" fill="none" stroke="#57514a" stroke-width="2"/>
     <circle cx="300" cy="358.6" r="170" fill="none" stroke="#57514a" stroke-width="2"/>
 
+    <image href="/at-a/assets/images/research/logo-ata-black.png" x="267" y="240" width="66" height="79" preserveAspectRatio="xMidYMid meet" />
+
     <text x="150" y="146" text-anchor="middle" dominant-baseline="central" font-size="17" font-weight="600" fill="#222">
       <tspan x="150" dy="-10">Arts &amp;</tspan>
       <tspan x="150" dy="20">Humanities</tspan>
