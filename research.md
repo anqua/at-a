@@ -6,7 +6,12 @@ title: Research
 Our group conducts research at the intersections of art, technology and architecture with a focus on design for sustainability. We publish across architecture&design, media art and human-computer interaction. We also build demonstrators, designs and artworks which we exhibit in venues around the world.
 
 <div class="research-diagram">
-  <img src="/at-a/assets/images/research/venn-diagram.png" alt="Venn diagram showing the group's research positioned at the intersections of Art & Humanities, Technology, and Architecture">
+  <div class="research-diagram-inner">
+    <img src="/at-a/assets/images/research/venn-diagram.png" alt="Venn diagram showing the group's research positioned at the intersections of Art & Humanities, Technology, and Architecture">
+    <span class="research-diagram-label" style="left:27.5%; top:32.4%;">Art & Humanities</span>
+    <span class="research-diagram-label" style="left:74.7%; top:33%;">Technology</span>
+    <span class="research-diagram-label" style="left:50.2%; top:88.7%;">Architecture</span>
+  </div>
 </div>
 
 <div class="research-model">

@@ -115,10 +115,27 @@ h1 {
   margin: 1.5em 0 2.5em;
 }
 
-.research-diagram img {
+.research-diagram-inner {
+  position: relative;
   width: 100%;
   max-width: 480px;
+}
+
+.research-diagram-inner img {
+  display: block;
+  width: 100%;
   height: auto;
+}
+
+.research-diagram-label {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  max-width: 42%;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.2;
+  color: #222;
 }
 
 .research-card-icons {
