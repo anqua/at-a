@@ -12,9 +12,9 @@ Our group conducts research at the intersections of art, technology and architec
     <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="#e5d7ca" />
     <path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#c7bfbb" />
 
-    <circle cx="220" cy="220" r="170" fill="none" stroke="#000" stroke-width="2"/>
-    <circle cx="380" cy="220" r="170" fill="none" stroke="#000" stroke-width="2"/>
-    <circle cx="300" cy="358.6" r="170" fill="none" stroke="#000" stroke-width="2"/>
+    <circle cx="220" cy="220" r="170" fill="none" stroke="#57514a" stroke-width="2"/>
+    <circle cx="380" cy="220" r="170" fill="none" stroke="#57514a" stroke-width="2"/>
+    <circle cx="300" cy="358.6" r="170" fill="none" stroke="#57514a" stroke-width="2"/>
 
     <text x="150" y="146" text-anchor="middle" dominant-baseline="central" font-size="23" font-weight="600" fill="#222">
       <tspan x="150" dy="-13">Art &amp;</tspan>
