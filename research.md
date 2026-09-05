@@ -7,20 +7,20 @@ Our group conducts research at the intersections of art, technology and architec
 
 <div class="research-diagram">
   <svg viewBox="20 20 560 540" role="img" aria-label="Venn diagram showing the group's research positioned at the intersections of Art &amp; Humanities, Technology, and Architecture">
-    <path d="M 300.0 370.0 A 170 170 0 0 0 300.0 70.0 A 170 170 0 0 0 300.0 370.0 Z" fill="#e7e8ea" />
-    <path d="M 130.1 364.3 A 170 170 0 0 0 389.9 214.3 A 170 170 0 0 0 130.1 364.3 Z" fill="#c7c7cc" />
-    <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="#e3caa8" />
-    <path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#b8aca3" />
+    <path d="M 300.0 370.0 A 170 170 0 0 0 300.0 70.0 A 170 170 0 0 0 300.0 370.0 Z" fill="#e8e8e9" />
+    <path d="M 130.1 364.3 A 170 170 0 0 0 389.9 214.3 A 170 170 0 0 0 130.1 364.3 Z" fill="#d4d2d6" />
+    <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="#e5d7ca" />
+    <path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#c7bfbb" />
 
     <circle cx="220" cy="220" r="170" fill="none" stroke="#000" stroke-width="4"/>
     <circle cx="380" cy="220" r="170" fill="none" stroke="#000" stroke-width="4"/>
     <circle cx="300" cy="358.6" r="170" fill="none" stroke="#000" stroke-width="4"/>
 
-    <text x="170" y="150" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="600" fill="#222">
-      <tspan x="170" dy="-14">Art &amp;</tspan>
-      <tspan x="170" dy="30">Humanities</tspan>
+    <text x="150" y="146" text-anchor="middle" dominant-baseline="central" font-size="23" font-weight="600" fill="#222">
+      <tspan x="150" dy="-13">Art &amp;</tspan>
+      <tspan x="150" dy="27">Humanities</tspan>
     </text>
-    <text x="430" y="150" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="600" fill="#222">Technology</text>
+    <text x="450" y="140" text-anchor="middle" dominant-baseline="central" font-size="23" font-weight="600" fill="#222">Technology</text>
     <text x="300" y="470" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="600" fill="#222">Architecture</text>
 
     <text x="300" y="150" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#000">I</text>
