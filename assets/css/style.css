@@ -184,6 +184,26 @@ h1 {
   font-weight: 400;
 }
 
+.research-card p {
+  margin: 0;
+}
+
+.research-theme {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8em;
+}
+
+.research-theme-logo {
+  width: 48px;
+  height: auto;
+}
+
+.research-theme .research-card {
+  width: 100%;
+}
+
 .research-card--overlap-1 { border-top-color: #b5b5b5; }
 .research-card--overlap-2 { border-top-color: #8c8c8c; }
 .research-card--overlap-3 { border-top-color: #c99a5b; }
