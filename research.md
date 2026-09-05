@@ -16,32 +16,6 @@ Our group conducts research at the intersections of art, technology and architec
 
 <div class="research-model">
   <div class="research-model-row">
-    <div class="research-card">
-      <h4>Art & Humanities</h4>
-      <ul>
-        <li>Creating aesthetic experiences through various art forms (music, literature, dance)</li>
-        <li>Understanding human experiences</li>
-        <li>Human self-expression</li>
-      </ul>
-    </div>
-    <div class="research-card">
-      <h4>Technology</h4>
-      <ul>
-        <li>Computational design & AI</li>
-        <li>Computational fabrication (smart manufacturing)</li>
-        <li>Bio-materials</li>
-        <li>Large-scale robotics</li>
-      </ul>
-    </div>
-    <div class="research-card">
-      <h4>Architecture</h4>
-      <ul>
-        <li>New construction</li>
-        <li>Care for the built environment (renovation & restoration of built cultural heritage)</li>
-      </ul>
-    </div>
-  </div>
-  <div class="research-model-row">
     <div class="research-card research-card--overlap-1">
       <div class="research-card-icons">
         <img src="/at-a/assets/images/research/icon-arttech-voronoi.png" alt="">
