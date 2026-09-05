@@ -3,9 +3,64 @@ layout: default
 title: Research
 ---
 
-<div class="research-images">
-  <img src="/at-a/assets/images/research/Area%20of%20research-01.png" alt="Diagram positioning the group's research at the intersection of Art & Humanities, Technology, and Architecture">
-  <img src="/at-a/assets/images/research/Area%20of%20research-03.png" alt="Diagram detailing the group's research areas across Art & Technology, Art & Architecture, and Architecture & Technology">
+<div class="research-model">
+  <div class="research-model-row">
+    <div class="research-card">
+      <h4>Art & Humanities</h4>
+      <ul>
+        <li>Creating aesthetic experiences through various art forms (music, literature, dance)</li>
+        <li>Understanding human experiences</li>
+        <li>Human self-expression</li>
+      </ul>
+    </div>
+    <div class="research-card">
+      <h4>Technology</h4>
+      <ul>
+        <li>Computational design & AI</li>
+        <li>Computational fabrication (smart manufacturing)</li>
+        <li>Bio-materials</li>
+        <li>Large-scale robotics</li>
+      </ul>
+    </div>
+    <div class="research-card">
+      <h4>Architecture</h4>
+      <ul>
+        <li>New construction</li>
+        <li>Care for the built environment (renovation & restoration of built cultural heritage)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="research-model-row">
+    <div class="research-card research-card--overlap-1">
+      <h4>Art & Humanities <span class="research-x">&times;</span> Technology</h4>
+      <ul>
+        <li>Digital humanities</li>
+        <li>Technology-mediated experiences</li>
+        <li>Creative-AI</li>
+        <li>Human-AI interaction</li>
+        <li>Human-computer interaction</li>
+        <li>Human-robot interaction</li>
+        <li>Bio-art</li>
+      </ul>
+    </div>
+    <div class="research-card research-card--overlap-2">
+      <h4>Art & Humanities <span class="research-x">&times;</span> Architecture</h4>
+      <ul>
+        <li>Art in public space</li>
+        <li>Artistic methods in architecture</li>
+        <li>Architectural humanities</li>
+        <li>Human interactions with space</li>
+      </ul>
+    </div>
+    <div class="research-card research-card--overlap-3">
+      <h4>Technology <span class="research-x">&times;</span> Architecture</h4>
+      <ul>
+        <li>Computational design for architecture</li>
+        <li>Construction robotics</li>
+        <li>Bio-design</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 Our group conducts research at the intersections of art, technology and architecture with a focus on design for sustainability. We publish across architecture&design, media art and human-computer interaction. We also build demonstrators, designs and artworks which we exhibit in venues around the world.
