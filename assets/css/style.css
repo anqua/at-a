@@ -109,8 +109,33 @@ h1 {
   margin-bottom: 0.6em;
 }
 
+.research-diagram {
+  display: flex;
+  justify-content: center;
+  margin: 1.5em 0 2.5em;
+}
+
+.research-diagram img {
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+}
+
+.research-card-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+  margin-bottom: 0.8em;
+}
+
+.research-card-icons img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
 .research-model {
-  margin-top: 1.5em;
+  margin-top: 0;
   margin-bottom: 3em;
   display: flex;
   flex-direction: column;

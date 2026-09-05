@@ -3,6 +3,12 @@ layout: default
 title: Research
 ---
 
+Our group conducts research at the intersections of art, technology and architecture with a focus on design for sustainability. We publish across architecture&design, media art and human-computer interaction. We also build demonstrators, designs and artworks which we exhibit in venues around the world.
+
+<div class="research-diagram">
+  <img src="/at-a/assets/images/research/venn-diagram.png" alt="Venn diagram showing the group's research positioned at the intersections of Art & Humanities, Technology, and Architecture">
+</div>
+
 <div class="research-model">
   <div class="research-model-row">
     <div class="research-card">
@@ -32,6 +38,12 @@ title: Research
   </div>
   <div class="research-model-row">
     <div class="research-card research-card--overlap-1">
+      <div class="research-card-icons">
+        <img src="/at-a/assets/images/research/icon-arttech-voronoi.png" alt="">
+        <img src="/at-a/assets/images/research/icon-arttech-handshake.png" alt="">
+        <img src="/at-a/assets/images/research/icon-arttech-pentool.png" alt="">
+        <img src="/at-a/assets/images/research/icon-arttech-brain.png" alt="">
+      </div>
       <h4>Art & Humanities <span class="research-x">&times;</span> Technology</h4>
       <ul>
         <li>Digital humanities</li>
@@ -44,6 +56,11 @@ title: Research
       </ul>
     </div>
     <div class="research-card research-card--overlap-2">
+      <div class="research-card-icons">
+        <img src="/at-a/assets/images/research/icon-artarch-cube.png" alt="">
+        <img src="/at-a/assets/images/research/icon-artarch-frame.png" alt="">
+        <img src="/at-a/assets/images/research/icon-artarch-sweep.png" alt="">
+      </div>
       <h4>Art & Humanities <span class="research-x">&times;</span> Architecture</h4>
       <ul>
         <li>Art in public space</li>
@@ -53,6 +70,11 @@ title: Research
       </ul>
     </div>
     <div class="research-card research-card--overlap-3">
+      <div class="research-card-icons">
+        <img src="/at-a/assets/images/research/icon-archtech-mesh.png" alt="">
+        <img src="/at-a/assets/images/research/icon-archtech-arm.png" alt="">
+        <img src="/at-a/assets/images/research/icon-archtech-house.png" alt="">
+      </div>
       <h4>Technology <span class="research-x">&times;</span> Architecture</h4>
       <ul>
         <li>Computational design for architecture</li>
@@ -62,8 +84,6 @@ title: Research
     </div>
   </div>
 </div>
-
-Our group conducts research at the intersections of art, technology and architecture with a focus on design for sustainability. We publish across architecture&design, media art and human-computer interaction. We also build demonstrators, designs and artworks which we exhibit in venues around the world.
 
 ### Computational and AI tools for architecture and design
 Investigating practical and theoretical implications of computational tools (including AI) on design processes. 
