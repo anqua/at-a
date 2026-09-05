@@ -12,9 +12,9 @@ Our group conducts research at the intersections of art, technology and architec
     <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="#e5d7ca" />
     <path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#c7bfbb" />
 
-    <circle cx="220" cy="220" r="170" fill="none" stroke="#000" stroke-width="4"/>
-    <circle cx="380" cy="220" r="170" fill="none" stroke="#000" stroke-width="4"/>
-    <circle cx="300" cy="358.6" r="170" fill="none" stroke="#000" stroke-width="4"/>
+    <circle cx="220" cy="220" r="170" fill="none" stroke="#000" stroke-width="2"/>
+    <circle cx="380" cy="220" r="170" fill="none" stroke="#000" stroke-width="2"/>
+    <circle cx="300" cy="358.6" r="170" fill="none" stroke="#000" stroke-width="2"/>
 
     <text x="150" y="146" text-anchor="middle" dominant-baseline="central" font-size="23" font-weight="600" fill="#222">
       <tspan x="150" dy="-13">Art &amp;</tspan>
@@ -22,10 +22,6 @@ Our group conducts research at the intersections of art, technology and architec
     </text>
     <text x="450" y="140" text-anchor="middle" dominant-baseline="central" font-size="23" font-weight="600" fill="#222">Technology</text>
     <text x="300" y="470" text-anchor="middle" dominant-baseline="central" font-size="26" font-weight="600" fill="#222">Architecture</text>
-
-    <text x="300" y="150" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#000">I</text>
-    <text x="200" y="320" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#000">II</text>
-    <text x="400" y="320" text-anchor="middle" dominant-baseline="central" font-size="24" font-weight="700" fill="#000">III</text>
   </svg>
 </div>
 
@@ -38,7 +34,7 @@ Our group conducts research at the intersections of art, technology and architec
         <img src="/at-a/assets/images/research/icon-arttech-pentool.png" alt="">
         <img src="/at-a/assets/images/research/icon-arttech-brain.png" alt="">
       </div>
-      <h4><span class="research-card-number">I</span> Art & Humanities <span class="research-x">&times;</span> Technology</h4>
+      <h4>Art & Humanities <span class="research-x">&times;</span> Technology</h4>
       <ul>
         <li>Digital humanities</li>
         <li>Technology-mediated experiences</li>
@@ -55,7 +51,7 @@ Our group conducts research at the intersections of art, technology and architec
         <img src="/at-a/assets/images/research/icon-artarch-frame.png" alt="">
         <img src="/at-a/assets/images/research/icon-artarch-sweep.png" alt="">
       </div>
-      <h4><span class="research-card-number">II</span> Art & Humanities <span class="research-x">&times;</span> Architecture</h4>
+      <h4>Art & Humanities <span class="research-x">&times;</span> Architecture</h4>
       <ul>
         <li>Art in public space</li>
         <li>Artistic methods in architecture</li>
@@ -69,7 +65,7 @@ Our group conducts research at the intersections of art, technology and architec
         <img src="/at-a/assets/images/research/icon-archtech-arm.png" alt="">
         <img src="/at-a/assets/images/research/icon-archtech-house.png" alt="">
       </div>
-      <h4><span class="research-card-number">III</span> Technology <span class="research-x">&times;</span> Architecture</h4>
+      <h4>Technology <span class="research-x">&times;</span> Architecture</h4>
       <ul>
         <li>Computational design for architecture</li>
         <li>Construction robotics</li>

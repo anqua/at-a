@@ -126,12 +126,6 @@ h1 {
   font-family: "Manrope", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-.research-card-number {
-  color: #aa7c50;
-  font-weight: 700;
-  margin-right: 0.3em;
-}
-
 .research-card-icons {
   display: flex;
   flex-wrap: wrap;
