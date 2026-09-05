@@ -188,34 +188,24 @@ h1 {
   margin: 0;
 }
 
-.research-theme {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.8em;
-}
-
 .research-theme-icons {
   display: flex;
   align-items: center;
-  justify-content: center;
   flex-wrap: wrap;
-  gap: 1em;
+  gap: 0.6em;
+  margin-bottom: 0.8em;
 }
 
 .research-theme-logo {
-  width: 40px;
-  height: auto;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
 }
 
 .research-theme-icons img:not(.research-theme-logo) {
   width: 32px;
   height: 32px;
   object-fit: contain;
-}
-
-.research-theme .research-card {
-  width: 100%;
 }
 
 .research-card--overlap-1 { border-top-color: #b5b5b5; }

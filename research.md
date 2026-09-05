@@ -80,19 +80,17 @@ Our group conducts research at the intersections of art, technology and architec
 Across these fields, we focus on the following:
 
 <div class="research-model-row">
-  <div class="research-theme">
+  <div class="research-card">
     <div class="research-theme-icons">
       <img src="/at-a/assets/images/research/logo-ata-black.png" alt="" class="research-theme-logo">
       <img src="/at-a/assets/images/research/icon-archtech-mesh.png" alt="">
       <img src="/at-a/assets/images/research/icon-arttech-pentool.png" alt="">
       <img src="/at-a/assets/images/research/icon-arttech-brain.png" alt="">
     </div>
-    <div class="research-card">
-      <h4>Computational and AI tools for architecture and design</h4>
-      <p>Investigating practical and theoretical implications of computational tools (including AI) on design processes. We ask questions such as: how do computation and AI change creative processes? What kind of things can we design with computation that could not be designed without it? What and how do we think through computational tools? In short - what is there to gain and what is to lose from the on-going retooling of these creative professions? And moreover - how does this interact with questions around sustainability? To what extent can computational and AI tools help build more sustainable, equitable, and preferable futures?</p>
-    </div>
+    <h4>Computational and AI tools for architecture and design</h4>
+    <p>Investigating practical and theoretical implications of computational tools (including AI) on design processes. We ask questions such as: how do computation and AI change creative processes? What kind of things can we design with computation that could not be designed without it? What and how do we think through computational tools? In short - what is there to gain and what is to lose from the on-going retooling of these creative professions? And moreover - how does this interact with questions around sustainability? To what extent can computational and AI tools help build more sustainable, equitable, and preferable futures?</p>
   </div>
-  <div class="research-theme">
+  <div class="research-card">
     <div class="research-theme-icons">
       <img src="/at-a/assets/images/research/logo-ata-black.png" alt="" class="research-theme-logo">
       <img src="/at-a/assets/images/research/icon-archtech-arm.png" alt="">
@@ -100,10 +98,8 @@ Across these fields, we focus on the following:
       <img src="/at-a/assets/images/research/icon-arttech-voronoi.png" alt="">
       <img src="/at-a/assets/images/research/icon-arttech-handshake.png" alt="">
     </div>
-    <div class="research-card">
-      <h4>Digital fabrication using natural materials</h4>
-      <p>Architecture and design are among the industries with the highest environmental impact through their high energy and material use, thus being responsible for high levels of CO2, as well as other emissions, such as methane. Developing new materials that biodegrade faster, that are grown rather than mined, can help alleviate the environmental impact of designed products and buildings. We explore new materials, material systems, and fabrication methods. Examples include: mycelium, Bio-rock, sea-shell based concretes, or 4D printing. We show how these materials can be applied to designed products or buildings.</p>
-    </div>
+    <h4>Digital fabrication using natural materials</h4>
+    <p>Architecture and design are among the industries with the highest environmental impact through their high energy and material use, thus being responsible for high levels of CO2, as well as other emissions, such as methane. Developing new materials that biodegrade faster, that are grown rather than mined, can help alleviate the environmental impact of designed products and buildings. We explore new materials, material systems, and fabrication methods. Examples include: mycelium, Bio-rock, sea-shell based concretes, or 4D printing. We show how these materials can be applied to designed products or buildings.</p>
   </div>
 </div>
 
