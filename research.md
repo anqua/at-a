@@ -6,7 +6,7 @@ title: Research
 Our group conducts research at the intersections of art, technology and architecture with a focus on design for sustainability. We publish across architecture&design, media art and human-computer interaction. We also build demonstrators, designs and artworks which we exhibit in venues around the world.
 
 <div class="research-diagram">
-  <svg viewBox="20 20 560 540" role="img" aria-label="Venn diagram showing the group's research positioned at the intersections of Art &amp; Humanities, Technology, and Architecture">
+  <svg viewBox="20 20 560 540" role="img" aria-label="Venn diagram showing the group's research positioned at the intersections of Arts &amp; Humanities, Technology, and Architecture">
     <path d="M 300.0 370.0 A 170 170 0 0 0 300.0 70.0 A 170 170 0 0 0 300.0 370.0 Z" fill="#e8e8e9" />
     <path d="M 130.1 364.3 A 170 170 0 0 0 389.9 214.3 A 170 170 0 0 0 130.1 364.3 Z" fill="#d4d2d6" />
     <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="#e5d7ca" />
@@ -17,7 +17,7 @@ Our group conducts research at the intersections of art, technology and architec
     <circle cx="300" cy="358.6" r="170" fill="none" stroke="#57514a" stroke-width="2"/>
 
     <text x="150" y="146" text-anchor="middle" dominant-baseline="central" font-size="17" font-weight="600" fill="#222">
-      <tspan x="150" dy="-10">Art &amp;</tspan>
+      <tspan x="150" dy="-10">Arts &amp;</tspan>
       <tspan x="150" dy="20">Humanities</tspan>
     </text>
     <text x="450" y="140" text-anchor="middle" dominant-baseline="central" font-size="17" font-weight="600" fill="#222">Technology</text>
@@ -34,7 +34,7 @@ Our group conducts research at the intersections of art, technology and architec
         <img src="/at-a/assets/images/research/icon-arttech-pentool.png" alt="">
         <img src="/at-a/assets/images/research/icon-arttech-brain.png" alt="">
       </div>
-      <h4>Art & Humanities <span class="research-x">&times;</span> Technology</h4>
+      <h4>Arts & Humanities <span class="research-x">&times;</span> Technology</h4>
       <ul>
         <li>Digital humanities</li>
         <li>Technology-mediated experiences</li>
@@ -51,7 +51,7 @@ Our group conducts research at the intersections of art, technology and architec
         <img src="/at-a/assets/images/research/icon-artarch-frame.png" alt="">
         <img src="/at-a/assets/images/research/icon-artarch-sweep.png" alt="">
       </div>
-      <h4>Art & Humanities <span class="research-x">&times;</span> Architecture</h4>
+      <h4>Arts & Humanities <span class="research-x">&times;</span> Architecture</h4>
       <ul>
         <li>Art in public space</li>
         <li>Artistic methods in architecture</li>
