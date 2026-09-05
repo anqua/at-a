@@ -8,12 +8,12 @@ Our group conducts research at the intersections of art, technology and architec
 <div class="research-diagram">
   <div class="research-diagram-inner">
     <img src="/at-a/assets/images/research/venn-diagram.png" alt="Venn diagram showing the group's research positioned at the intersections of Art & Humanities, Technology, and Architecture">
-    <span class="research-diagram-label" style="left:27.5%; top:32.4%;">Art & Humanities</span>
-    <span class="research-diagram-label" style="left:74.7%; top:33%;">Technology</span>
-    <span class="research-diagram-label" style="left:50.2%; top:88.7%;">Architecture</span>
-    <span class="research-diagram-number" style="left:50.2%; top:0.9%; transform:translate(-50%,-160%);">I</span>
-    <span class="research-diagram-number" style="left:12%; top:80.4%; transform:translate(-140%,20%);">II</span>
-    <span class="research-diagram-number" style="left:88.9%; top:81.5%; transform:translate(40%,20%);">III</span>
+    <span class="research-diagram-label" style="left:27.5%; top:15%;">Art & Humanities</span>
+    <span class="research-diagram-label" style="left:74.7%; top:15.8%;">Technology</span>
+    <span class="research-diagram-label" style="left:50.2%; top:85.8%;">Architecture</span>
+    <span class="research-diagram-number" style="left:50.2%; top:21.4%;">I</span>
+    <span class="research-diagram-number" style="left:30.7%; top:54.3%;">II</span>
+    <span class="research-diagram-number" style="left:69.1%; top:54.3%;">III</span>
   </div>
 </div>
 
