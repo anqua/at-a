@@ -195,9 +195,23 @@ h1 {
   gap: 0.8em;
 }
 
+.research-theme-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
 .research-theme-logo {
-  width: 48px;
+  width: 40px;
   height: auto;
+}
+
+.research-theme-icons img:not(.research-theme-logo) {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
 }
 
 .research-theme .research-card {
