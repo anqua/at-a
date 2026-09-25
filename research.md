@@ -11,17 +11,19 @@ Our group conducts research at the intersections of art, technology and architec
       <pattern id="hatch-blue" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#0000ff" stroke-width="1.7"/></pattern>
       <pattern id="hatch-green" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#00ff00" stroke-width="1.7"/></pattern>
       <pattern id="hatch-magenta" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#ff00ff" stroke-width="1.7"/></pattern>
+    <mask id="no-center" maskUnits="userSpaceOnUse" x="0" y="0" width="600" height="600"><rect width="600" height="600" fill="#fff"/><path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#000"/></mask>
     </defs>
+    <g mask="url(#no-center)">
     <path d="M 300.0 370.0 A 170 170 0 0 0 300.0 70.0 A 170 170 0 0 0 300.0 370.0 Z" fill="url(#hatch-blue)" />
     <path d="M 130.1 364.3 A 170 170 0 0 0 389.9 214.3 A 170 170 0 0 0 130.1 364.3 Z" fill="url(#hatch-green)" />
     <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="url(#hatch-magenta)" />
-    <path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#000" />
+    </g>
 
     <circle cx="220" cy="220" r="170" fill="none" stroke="#000" stroke-width="2"/>
     <circle cx="380" cy="220" r="170" fill="none" stroke="#000" stroke-width="2"/>
     <circle cx="300" cy="358.6" r="170" fill="none" stroke="#000" stroke-width="2"/>
 
-    <image href="/at-a/assets/images/research/logo-ata-white.png" x="254" y="214" width="92" height="110" preserveAspectRatio="xMidYMid meet" />
+    <image href="/at-a/assets/images/research/logo-ata-black.png" x="254" y="214" width="92" height="110" preserveAspectRatio="xMidYMid meet" />
 
     <text x="150" y="146" text-anchor="middle" dominant-baseline="central" font-size="17" font-weight="600" fill="#222">
       <tspan x="150" dy="-10">Arts &amp;</tspan>
