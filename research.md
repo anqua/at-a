@@ -85,7 +85,7 @@ Our group conducts research at the intersections of art, technology and architec
 Across these fields, we focus on the following:
 
 <div class="research-model-row">
-  <div class="research-card research-card--dark">
+  <div class="research-card">
     <div class="research-theme-icons">
       <img src="/at-a/assets/images/research/logo-ata-black.png" alt="" class="research-theme-logo">
       <img src="/at-a/assets/images/research/icon-archtech-mesh.png" alt="">
@@ -95,7 +95,7 @@ Across these fields, we focus on the following:
     <h4>Computational and AI tools for architecture and design</h4>
     <p>Investigating practical and theoretical implications of computational tools (including AI) on design processes. We ask questions such as: how do computation and AI change creative processes? What kind of things can we design with computation that could not be designed without it? What and how do we think through computational tools? In short - what is there to gain and what is to lose from the on-going retooling of these creative professions? And moreover - how does this interact with questions around sustainability? To what extent can computational and AI tools help build more sustainable, equitable, and preferable futures?</p>
   </div>
-  <div class="research-card research-card--dark">
+  <div class="research-card">
     <div class="research-theme-icons">
       <img src="/at-a/assets/images/research/logo-ata-black.png" alt="" class="research-theme-logo">
       <img src="/at-a/assets/images/research/icon-archtech-arm.png" alt="">
