@@ -49,6 +49,14 @@ header {
   align-items: center;
 }
 
+@media (min-width: 769px) {
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+}
+
 .header-inner {
   width: 100%;
   max-width: var(--content-width);
