@@ -534,14 +534,6 @@ main a:not(.pub-btn):hover {
   gap: 2em;
 }
 
-.footer-left {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 1.2em;
-  justify-self: start;
-}
-
 .footer-col-center,
 .footer-col-side {
   display: flex;
@@ -553,8 +545,16 @@ main a:not(.pub-btn):hover {
 
 .footer-col-side.footer-brand {
   flex-direction: row;
+  align-items: stretch;
   gap: 1em;
   justify-self: start;
+}
+
+.footer-brand-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .footer-col-center {
@@ -571,16 +571,21 @@ main a:not(.pub-btn):hover {
 
 .footer-logo-ata {
   max-width: 100%;
-  max-height: 7rem;
+  height: 7rem;
   width: auto;
-  height: auto;
 }
 
 .footer-social-link {
-  font-size: 1rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  line-height: 0;
+  margin-bottom: -4px;
+}
+
+.footer-social-link .icon-linkedin {
+  display: block;
+  width: 26px;
+  height: 26px;
+  margin: 0;
+  color: #fff;
 }
 
 @media (max-width: 768px) {
@@ -591,14 +596,9 @@ main a:not(.pub-btn):hover {
     row-gap: 4.5em;
   }
 
-  .footer-left,
   .footer-col-side.footer-brand,
   .footer-col-center {
     justify-self: center;
-  }
-
-  .footer-left {
-    align-items: center;
   }
 }
 
