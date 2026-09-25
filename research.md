@@ -7,9 +7,14 @@ Our group conducts research at the intersections of art, technology and architec
 
 <div class="research-diagram">
   <svg viewBox="20 20 560 540" role="img" aria-label="Venn diagram showing the group's research positioned at the intersections of Arts &amp; Humanities, Technology, and Architecture">
-    <path d="M 300.0 370.0 A 170 170 0 0 0 300.0 70.0 A 170 170 0 0 0 300.0 370.0 Z" fill="#0000ff" />
-    <path d="M 130.1 364.3 A 170 170 0 0 0 389.9 214.3 A 170 170 0 0 0 130.1 364.3 Z" fill="#00ff00" />
-    <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="#ff00ff" />
+    <defs>
+      <pattern id="hatch-blue" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#0000ff" stroke-width="1.7"/></pattern>
+      <pattern id="hatch-green" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#00ff00" stroke-width="1.7"/></pattern>
+      <pattern id="hatch-magenta" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#ff00ff" stroke-width="1.7"/></pattern>
+    </defs>
+    <path d="M 300.0 370.0 A 170 170 0 0 0 300.0 70.0 A 170 170 0 0 0 300.0 370.0 Z" fill="url(#hatch-blue)" />
+    <path d="M 130.1 364.3 A 170 170 0 0 0 389.9 214.3 A 170 170 0 0 0 130.1 364.3 Z" fill="url(#hatch-green)" />
+    <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="url(#hatch-magenta)" />
     <path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#000" />
 
     <circle cx="220" cy="220" r="170" fill="none" stroke="#000" stroke-width="2"/>
