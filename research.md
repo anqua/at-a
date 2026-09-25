@@ -25,12 +25,12 @@ Our group conducts research at the intersections of art, technology and architec
 
     <image href="/at-a/assets/images/research/logo-ata-black.png" x="254" y="214" width="92" height="110" preserveAspectRatio="xMidYMid meet" />
 
-    <text x="150" y="146" text-anchor="middle" dominant-baseline="central" font-size="17" font-weight="600" fill="#222">
+    <text x="150" y="146" text-anchor="middle" dominant-baseline="central" font-size="19" font-weight="600" fill="#222">
       <tspan x="150" dy="-10">Arts &amp;</tspan>
       <tspan x="150" dy="20">Humanities</tspan>
     </text>
-    <text x="450" y="140" text-anchor="middle" dominant-baseline="central" font-size="17" font-weight="600" fill="#222">Technology</text>
-    <text x="300" y="470" text-anchor="middle" dominant-baseline="central" font-size="19" font-weight="600" fill="#222">Architecture</text>
+    <text x="450" y="140" text-anchor="middle" dominant-baseline="central" font-size="19" font-weight="600" fill="#222">Technology</text>
+    <text x="300" y="470" text-anchor="middle" dominant-baseline="central" font-size="21" font-weight="600" fill="#222">Architecture</text>
   </svg>
 </div>
 
