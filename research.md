@@ -7,10 +7,10 @@ Our group conducts research at the intersections of art, technology and architec
 
 <div class="research-diagram">
   <svg viewBox="20 20 560 540" role="img" aria-label="Venn diagram showing the group's research positioned at the intersections of Arts &amp; Humanities, Technology, and Architecture">
-    <path d="M 300.0 370.0 A 170 170 0 0 0 300.0 70.0 A 170 170 0 0 0 300.0 370.0 Z" fill="#d9c8ff" />
-    <path d="M 130.1 364.3 A 170 170 0 0 0 389.9 214.3 A 170 170 0 0 0 130.1 364.3 Z" fill="#b3fff0" />
-    <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="#ffc2ec" />
-    <path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#e8ff5a" />
+    <path d="M 300.0 370.0 A 170 170 0 0 0 300.0 70.0 A 170 170 0 0 0 300.0 370.0 Z" fill="#4f7bff" />
+    <path d="M 130.1 364.3 A 170 170 0 0 0 389.9 214.3 A 170 170 0 0 0 130.1 364.3 Z" fill="#3dff8a" />
+    <path d="M 210.1 214.3 A 170 170 0 0 0 469.9 364.3 A 170 170 0 0 0 210.1 214.3 Z" fill="#ff5fd0" />
+    <path d="M 210.1 214.3 A 170 170 0 0 1 389.9 214.3 A 170 170 0 0 1 300.0 370.0 A 170 170 0 0 1 210.1 214.3 Z" fill="#d8ff00" />
 
     <circle cx="220" cy="220" r="170" fill="none" stroke="#57514a" stroke-width="2"/>
     <circle cx="380" cy="220" r="170" fill="none" stroke="#57514a" stroke-width="2"/>
