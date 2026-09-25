@@ -595,3 +595,13 @@ main a:not(.pub-btn):hover {
 
 
 
+
+.research-card--dark {
+  background: #000;
+  color: #fff;
+  border-color: #000;
+}
+
+.research-card--dark img {
+  filter: brightness(0) invert(1);
+}
