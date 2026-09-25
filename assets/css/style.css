@@ -600,7 +600,7 @@ main a:not(.pub-btn):hover {
   background: #000;
   color: #fff;
   border-color: #000;
-  border-top: 1px solid #000;
+  border-top: 4px solid #000;
 }
 
 .research-card--dark .research-theme-icons {
