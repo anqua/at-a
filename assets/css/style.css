@@ -230,9 +230,9 @@ h1 {
   object-fit: contain;
 }
 
-.research-card--overlap-1 { border-top-color: #4f7bff; }
-.research-card--overlap-2 { border-top-color: #3dff8a; }
-.research-card--overlap-3 { border-top-color: #ff5fd0; }
+.research-card--overlap-1 { border-top-color: #0000ff; }
+.research-card--overlap-2 { border-top-color: #00ff00; }
+.research-card--overlap-3 { border-top-color: #ff00ff; }
 
 .news-list {
   margin-top: 1em;
