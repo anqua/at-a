@@ -605,7 +605,7 @@ main a:not(.pub-btn):hover {
     grid-template-columns: 1fr;
     justify-items: center;
     text-align: center;
-    row-gap: 6em;
+    row-gap: 9em;
   }
 
   .footer-col-side.footer-brand,
