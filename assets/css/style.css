@@ -372,16 +372,29 @@ h1 {
 }
 
 .exhibition-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1em;
+  column-count: 3;
+  column-gap: 1em;
   margin: 1.5em 0;
 }
 
 .exhibition-gallery img {
   width: 100%;
   display: block;
+  margin-bottom: 1em;
   border: 1px solid #ccc;
+  break-inside: avoid;
+}
+
+@media (max-width: 900px) {
+  .exhibition-gallery {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .exhibition-gallery {
+    column-count: 1;
+  }
 }
 
 .exhibition-placeholder {
