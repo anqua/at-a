@@ -19,7 +19,10 @@ images: []
 {% elsif ex.description %}<p>{{ ex.description }}</p>
 {% endif %}
 
-{% if ex.press %}<p><a class="pub-btn" href="{{ ex.press }}" target="_blank" rel="noopener">Press coverage</a></p>{% endif %}
+{% if ex.press or ex.instagram %}<p class="pub-actions">
+  {% if ex.press %}<a class="pub-btn" href="{{ ex.press }}" target="_blank" rel="noopener">Press coverage</a>{% endif %}
+  {% if ex.instagram %}<a class="pub-btn" href="{{ ex.instagram }}" target="_blank" rel="noopener">Instagram</a>{% endif %}
+</p>{% endif %}
 
 <div class="exhibition-gallery">
 {% if page.images and page.images.size > 0 %}
