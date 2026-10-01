@@ -372,27 +372,106 @@ h1 {
 }
 
 .exhibition-gallery {
-  column-count: 2;
-  column-gap: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0;
   margin: 1.5em 0;
 }
 
-.exhibition-gallery img {
-  width: 100%;
+.exhibition-thumb-btn {
   display: block;
-  margin-bottom: 0;
-  break-inside: avoid;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: #000;
+  cursor: pointer;
+  overflow: hidden;
 }
 
-@media (max-width: 600px) {
-  .exhibition-gallery {
-    column-count: 1;
-  }
+.exhibition-thumb-btn img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.exhibition-thumb-btn:hover img {
+  transform: scale(1.06);
+  opacity: 0.9;
 }
 
 .exhibition-placeholder {
   color: #777;
   font-style: italic;
+}
+
+.lightbox-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: rgba(0,0,0,0.94);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.lightbox-overlay.open {
+  display: flex;
+}
+
+.lightbox-image {
+  max-width: 92vw;
+  max-height: 80vh;
+  object-fit: contain;
+  display: block;
+}
+
+.lightbox-close,
+.lightbox-prev,
+.lightbox-next {
+  position: absolute;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 2.2em;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.3em;
+}
+
+.lightbox-close {
+  top: 0.6rem;
+  right: 0.8rem;
+}
+
+.lightbox-prev {
+  left: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.lightbox-next {
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.lightbox-count {
+  color: #ccc;
+  margin-top: 1em;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 600px) {
+  .lightbox-prev,
+  .lightbox-next {
+    font-size: 1.6em;
+  }
 }
 
 .pub-card {

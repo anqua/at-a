@@ -36,12 +36,4 @@ images:
   </video>
 </div>
 
-<div class="exhibition-gallery">
-{% if page.images and page.images.size > 0 %}
-  {% for img in page.images %}
-  <img src="{{ img }}" alt="{{ ex.title | escape }} &mdash; installation view">
-  {% endfor %}
-{% else %}
-  <p class="exhibition-placeholder">Installation images coming soon.</p>
-{% endif %}
-</div>
+{% include exhibition-gallery.html images=page.images title=ex.title %}

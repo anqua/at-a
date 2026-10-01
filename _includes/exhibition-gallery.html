@@ -1,0 +1,71 @@
+{% assign imgs = include.images %}
+{% assign title = include.title %}
+<div class="exhibition-gallery">
+{% if imgs and imgs.size > 0 %}
+  {% for img in imgs %}
+  <button type="button" class="exhibition-thumb-btn" data-full="{{ img }}" data-index="{{ forloop.index0 }}">
+    <img src="{{ img }}" alt="{{ title | escape }} &mdash; installation view {{ forloop.index }}" loading="lazy">
+  </button>
+  {% endfor %}
+{% else %}
+  <p class="exhibition-placeholder">Installation images coming soon.</p>
+{% endif %}
+</div>
+
+{% if imgs and imgs.size > 0 %}
+<div class="lightbox-overlay" id="exhibition-lightbox">
+  <button type="button" class="lightbox-close" aria-label="Close">&times;</button>
+  <button type="button" class="lightbox-prev" aria-label="Previous">&#8249;</button>
+  <img class="lightbox-image" src="" alt="">
+  <button type="button" class="lightbox-next" aria-label="Next">&#8250;</button>
+  <div class="lightbox-count"></div>
+</div>
+<script>
+(function () {
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.exhibition-thumb-btn'));
+  if (!buttons.length) return;
+  var overlay = document.getElementById('exhibition-lightbox');
+  var imgEl = overlay.querySelector('.lightbox-image');
+  var countEl = overlay.querySelector('.lightbox-count');
+  var closeBtn = overlay.querySelector('.lightbox-close');
+  var prevBtn = overlay.querySelector('.lightbox-prev');
+  var nextBtn = overlay.querySelector('.lightbox-next');
+  var current = 0;
+
+  function show(i) {
+    current = (i + buttons.length) % buttons.length;
+    var btn = buttons[current];
+    imgEl.src = btn.getAttribute('data-full');
+    imgEl.alt = btn.querySelector('img').alt;
+    countEl.textContent = (current + 1) + ' / ' + buttons.length;
+  }
+
+  function open(i) {
+    show(i);
+    overlay.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function close() {
+    overlay.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  buttons.forEach(function (btn, i) {
+    btn.addEventListener('click', function () { open(i); });
+  });
+  closeBtn.addEventListener('click', close);
+  prevBtn.addEventListener('click', function () { show(current - 1); });
+  nextBtn.addEventListener('click', function () { show(current + 1); });
+  overlay.addEventListener('click', function (e) {
+    if (e.target === overlay) close();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (!overlay.classList.contains('open')) return;
+    if (e.key === 'Escape') close();
+    else if (e.key === 'ArrowLeft') show(current - 1);
+    else if (e.key === 'ArrowRight') show(current + 1);
+  });
+})();
+</script>
+{% endif %}
