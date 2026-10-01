@@ -360,6 +360,17 @@ h1 {
   font-size: 0.95em;
 }
 
+.exhibition-video {
+  margin: 1.5em 0;
+}
+
+.exhibition-video video {
+  display: block;
+  max-width: 360px;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
 .exhibition-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));

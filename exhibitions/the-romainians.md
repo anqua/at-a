@@ -24,6 +24,12 @@ images: []
   {% if ex.instagram %}<a class="pub-btn" href="{{ ex.instagram }}" target="_blank" rel="noopener">Instagram</a>{% endif %}
 </p>{% endif %}
 
+<div class="exhibition-video">
+  <video controls preload="metadata">
+    <source src="/at-a/assets/videos/the-romainians-reel.mp4" type="video/mp4">
+  </video>
+</div>
+
 <div class="exhibition-gallery">
 {% if page.images and page.images.size > 0 %}
   {% for img in page.images %}
