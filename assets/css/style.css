@@ -586,6 +586,15 @@ main a:not(.pub-btn):hover {
   text-decoration: none;
 }
 
+main a.exhibition-thumb-link:hover,
+main a.pub-thumb-link:hover {
+  /* image links don't need the padding-bottom (that's only to clear a text
+     underline); without canceling it here, the extra 4px shifts the title
+     below the image down on hover. Specificity must match
+     "main a:not(.pub-btn):hover" above for this override to win. */
+  padding-bottom: 0;
+}
+
 .icon-linkedin,
 .icon-scholar,
 .icon-email,
