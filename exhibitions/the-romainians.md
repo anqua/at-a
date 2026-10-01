@@ -4,6 +4,8 @@ title: The Rom(AI)nians
 exhibition_id: rom-ai-nians
 images:
   - /at-a/assets/images/exhibitions/romainians/04-poster.jpg
+  - type: video
+    src: /at-a/assets/videos/the-romainians-reel.mp4
   - /at-a/assets/images/exhibitions/romainians/01-exterior-entrance.jpg
   - /at-a/assets/images/exhibitions/romainians/02-exterior-cutout.jpg
   - /at-a/assets/images/exhibitions/romainians/06-laptop-printer.jpg
@@ -25,15 +27,8 @@ images:
 {% elsif ex.description %}<p>{{ ex.description }}</p>
 {% endif %}
 
-{% if ex.press or ex.instagram %}<p class="pub-actions">
-  {% if ex.press %}<a class="pub-btn" href="{{ ex.press }}" target="_blank" rel="noopener">Press coverage</a>{% endif %}
-  {% if ex.instagram %}<a class="pub-btn" href="{{ ex.instagram }}" target="_blank" rel="noopener">Instagram</a>{% endif %}
+{% if ex.press %}<p class="pub-actions">
+  <a class="pub-btn" href="{{ ex.press }}" target="_blank" rel="noopener">Press coverage</a>
 </p>{% endif %}
-
-<div class="exhibition-video">
-  <video controls preload="metadata">
-    <source src="/at-a/assets/videos/the-romainians-reel.mp4" type="video/mp4">
-  </video>
-</div>
 
 {% include exhibition-gallery.html images=page.images title=ex.title %}

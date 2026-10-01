@@ -403,6 +403,24 @@ h1 {
   opacity: 0.9;
 }
 
+.exhibition-thumb-btn--video {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.exhibition-play-icon {
+  color: #fff;
+  font-size: 2.2em;
+  opacity: 0.85;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.exhibition-thumb-btn--video:hover .exhibition-play-icon {
+  transform: scale(1.15);
+  opacity: 1;
+}
+
 .exhibition-placeholder {
   color: #777;
   font-style: italic;
@@ -428,6 +446,12 @@ h1 {
   max-height: 80vh;
   object-fit: contain;
   display: block;
+}
+
+.lightbox-video {
+  max-width: 92vw;
+  max-height: 80vh;
+  display: none;
 }
 
 .lightbox-close,

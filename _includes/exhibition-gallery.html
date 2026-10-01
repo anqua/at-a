@@ -2,10 +2,16 @@
 {% assign title = include.title %}
 <div class="exhibition-gallery">
 {% if imgs and imgs.size > 0 %}
-  {% for img in imgs %}
-  <button type="button" class="exhibition-thumb-btn" data-full="{{ img }}" data-index="{{ forloop.index0 }}">
-    <img src="{{ img }}" alt="{{ title | escape }} &mdash; installation view {{ forloop.index }}" loading="lazy">
+  {% for item in imgs %}
+  {% if item.type == "video" %}
+  <button type="button" class="exhibition-thumb-btn exhibition-thumb-btn--video" data-type="video" data-full="{{ item.src }}" data-index="{{ forloop.index0 }}" aria-label="Play video">
+    <span class="exhibition-play-icon" aria-hidden="true">&#9654;</span>
   </button>
+  {% else %}
+  <button type="button" class="exhibition-thumb-btn" data-type="image" data-full="{{ item }}" data-index="{{ forloop.index0 }}">
+    <img src="{{ item }}" alt="{{ title | escape }} &mdash; installation view {{ forloop.index }}" loading="lazy">
+  </button>
+  {% endif %}
   {% endfor %}
 {% else %}
   <p class="exhibition-placeholder">Installation images coming soon.</p>
@@ -17,6 +23,7 @@
   <button type="button" class="lightbox-close" aria-label="Close">&times;</button>
   <button type="button" class="lightbox-prev" aria-label="Previous">&#8249;</button>
   <img class="lightbox-image" src="" alt="">
+  <video class="lightbox-video" controls playsinline></video>
   <button type="button" class="lightbox-next" aria-label="Next">&#8250;</button>
   <div class="lightbox-count"></div>
 </div>
@@ -26,6 +33,7 @@
   if (!buttons.length) return;
   var overlay = document.getElementById('exhibition-lightbox');
   var imgEl = overlay.querySelector('.lightbox-image');
+  var videoEl = overlay.querySelector('.lightbox-video');
   var countEl = overlay.querySelector('.lightbox-count');
   var closeBtn = overlay.querySelector('.lightbox-close');
   var prevBtn = overlay.querySelector('.lightbox-prev');
@@ -33,10 +41,25 @@
   var current = 0;
 
   function show(i) {
+    videoEl.pause();
     current = (i + buttons.length) % buttons.length;
     var btn = buttons[current];
-    imgEl.src = btn.getAttribute('data-full');
-    imgEl.alt = btn.querySelector('img').alt;
+    var isVideo = btn.getAttribute('data-type') === 'video';
+    if (isVideo) {
+      imgEl.style.display = 'none';
+      videoEl.style.display = 'block';
+      if (videoEl.getAttribute('src') !== btn.getAttribute('data-full')) {
+        videoEl.setAttribute('src', btn.getAttribute('data-full'));
+      }
+    } else {
+      videoEl.style.display = 'none';
+      videoEl.removeAttribute('src');
+      videoEl.load();
+      imgEl.style.display = 'block';
+      imgEl.src = btn.getAttribute('data-full');
+      var inner = btn.querySelector('img');
+      imgEl.alt = inner ? inner.alt : '';
+    }
     countEl.textContent = (current + 1) + ' / ' + buttons.length;
   }
 
@@ -47,6 +70,7 @@
   }
 
   function close() {
+    videoEl.pause();
     overlay.classList.remove('open');
     document.body.style.overflow = '';
   }
