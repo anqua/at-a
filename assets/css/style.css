@@ -372,23 +372,16 @@ h1 {
 }
 
 .exhibition-gallery {
-  column-count: 3;
-  column-gap: 1em;
+  column-count: 2;
+  column-gap: 0;
   margin: 1.5em 0;
 }
 
 .exhibition-gallery img {
   width: 100%;
   display: block;
-  margin-bottom: 1em;
-  border: 1px solid #ccc;
+  margin-bottom: 0;
   break-inside: avoid;
-}
-
-@media (max-width: 900px) {
-  .exhibition-gallery {
-    column-count: 2;
-  }
 }
 
 @media (max-width: 600px) {
