@@ -327,6 +327,13 @@ h1 {
   color: #555;
 }
 
+.exhibition-credits {
+  margin: 0 0 0.6em;
+  font-size: 0.9em;
+  font-style: italic;
+  color: #555;
+}
+
 .exhibition-desc {
   margin: 0 0 0.8em;
   font-size: 0.9em;

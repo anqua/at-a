@@ -6,6 +6,7 @@
   <div class="exhibition-body">
     <h4 class="exhibition-title"><a href="{{ ex.url }}">{{ ex.title }}</a></h4>
     <p class="exhibition-meta">{{ ex.venue }}{% if ex.location %}, {{ ex.location }}{% endif %} &middot; {{ ex.year }}</p>
+    {% if ex.credits %}<p class="exhibition-credits">{{ ex.credits }}</p>{% endif %}
     {% if ex.description %}<p class="exhibition-desc">{{ ex.description }}</p>{% endif %}
     <a class="pub-btn" href="{{ ex.url }}">View exhibition</a>
   </div>
