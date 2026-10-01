@@ -1,6 +1,7 @@
 - id: rom-ai-nians
   title: "The Rom(AI)nians"
   venue: "Galeria Aparte"
+  venue_url: "https://aparte.arteiasi.ro/"
   location: "Iași, Romania"
   year: 2026
   credits: "Anca-Simona Horvath and Mihai Aureliu Savin"

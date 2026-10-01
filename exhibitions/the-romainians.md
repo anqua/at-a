@@ -18,7 +18,7 @@ images:
 <p><a href="/at-a/outputs#exhibitions" class="exhibition-back">&larr; Back to Outputs</a></p>
 
 <h1>{{ ex.title }}</h1>
-<p class="exhibition-page-meta">{{ ex.venue }}{% if ex.location %}, {{ ex.location }}{% endif %} &middot; {{ ex.year }}</p>
+<p class="exhibition-page-meta">{% if ex.venue_url %}<a href="{{ ex.venue_url }}" target="_blank" rel="noopener">{{ ex.venue }}</a>{% else %}{{ ex.venue }}{% endif %}{% if ex.location %}, {{ ex.location }}{% endif %} &middot; {{ ex.year }}</p>
 {% if ex.credits %}<p class="exhibition-page-credits">{{ ex.credits }}</p>{% endif %}
 
 {% if ex.description_long %}
