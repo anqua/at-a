@@ -510,6 +510,7 @@ h1 {
 .pub-thumb-link {
   display: block;
   flex-shrink: 0;
+  align-self: flex-start;
 }
 
 .pub-thumb {
