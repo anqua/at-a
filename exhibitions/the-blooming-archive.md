@@ -27,6 +27,10 @@ images:
 {% if ex.event %}<p class="exhibition-page-event">{{ ex.event }}</p>{% endif %}
 {% if ex.credits %}<p class="exhibition-page-credits">{{ ex.credits }}</p>{% endif %}
 
+{% if ex.paper %}<p class="pub-actions">
+  <a class="pub-btn" href="{{ ex.paper }}" target="_blank" rel="noopener">Research paper</a>
+</p>{% endif %}
+
 {% if ex.description %}<p>{{ ex.description }}</p>{% endif %}
 
 {% include exhibition-gallery.html images=page.images title=ex.title %}
