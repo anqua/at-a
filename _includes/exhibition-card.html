@@ -1,0 +1,12 @@
+{% assign ex = include.ex %}
+<div class="exhibition-card">
+  <a href="{{ ex.url }}" class="exhibition-thumb-link">
+    <img class="exhibition-thumb" src="{% if ex.cover %}{{ ex.cover }}{% else %}/at-a/assets/images/Logo_AtA.png{% endif %}" alt="{{ ex.title | escape }}">
+  </a>
+  <div class="exhibition-body">
+    <h4 class="exhibition-title"><a href="{{ ex.url }}">{{ ex.title }}</a></h4>
+    <p class="exhibition-meta">{{ ex.venue }}{% if ex.location %}, {{ ex.location }}{% endif %} &middot; {{ ex.year }}</p>
+    {% if ex.description %}<p class="exhibition-desc">{{ ex.description }}</p>{% endif %}
+    <a class="pub-btn" href="{{ ex.url }}">View exhibition</a>
+  </div>
+</div>

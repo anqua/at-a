@@ -37,9 +37,12 @@ title: Outputs
 {% endfor %}
 </div>
 
-<h3>Art and Design Exhibitions</h3>
-
-<p>2 art exhibitions in the making!</p>
+<h3 id="exhibitions">Art and Design Exhibitions</h3>
+<div class="exhibition-grid">
+{% for ex in site.data.exhibitions %}
+  {% include exhibition-card.html ex=ex %}
+{% endfor %}
+</div>
 
 <h3>DATASETS</h3>
 <div class="pubs-grid pubs-grid--datasets">
