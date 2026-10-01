@@ -7,7 +7,7 @@ images: []
 
 {% assign ex = site.data.exhibitions | where: "id", page.exhibition_id | first %}
 
-<p><a href="/at-a/outputs/#exhibitions" class="exhibition-back">&larr; Back to Outputs</a></p>
+<p><a href="/at-a/outputs#exhibitions" class="exhibition-back">&larr; Back to Outputs</a></p>
 
 <h1>{{ ex.title }}</h1>
 <p class="exhibition-page-meta">{{ ex.venue }}{% if ex.location %}, {{ ex.location }}{% endif %} &middot; {{ ex.year }}</p>
