@@ -21,14 +21,14 @@ images:
 <p class="exhibition-page-meta">{% if ex.venue_url %}<a href="{{ ex.venue_url }}" target="_blank" rel="noopener">{{ ex.venue }}</a>{% else %}{{ ex.venue }}{% endif %}{% if ex.location %}, {{ ex.location }}{% endif %} &middot; {{ ex.year }}</p>
 {% if ex.credits %}<p class="exhibition-page-credits">{{ ex.credits }}</p>{% endif %}
 
+{% if ex.press %}<p class="pub-actions">
+  <a class="pub-btn" href="{{ ex.press }}" target="_blank" rel="noopener">Press coverage</a>
+</p>{% endif %}
+
 {% if ex.description_long %}
   {% for para in ex.description_long %}<p>{{ para }}</p>
   {% endfor %}
 {% elsif ex.description %}<p>{{ ex.description }}</p>
 {% endif %}
-
-{% if ex.press %}<p class="pub-actions">
-  <a class="pub-btn" href="{{ ex.press }}" target="_blank" rel="noopener">Press coverage</a>
-</p>{% endif %}
 
 {% include exhibition-gallery.html images=page.images title=ex.title %}
