@@ -11,8 +11,6 @@ images:
   - /at-a/assets/images/exhibitions/blooming-archive/06-tablet-closeup.jpg
   - /at-a/assets/images/exhibitions/blooming-archive/07-visitor-tablet.jpg
   - /at-a/assets/images/exhibitions/blooming-archive/08-installation-wide.jpg
-  - /at-a/assets/images/exhibitions/blooming-archive/09-atrium-view.jpg
-  - /at-a/assets/images/exhibitions/blooming-archive/10-plinths-row.jpg
   - /at-a/assets/images/exhibitions/blooming-archive/11-installation.jpg
   - /at-a/assets/images/exhibitions/blooming-archive/12-installation.jpg
   - /at-a/assets/images/exhibitions/blooming-archive/13-setup.jpg
