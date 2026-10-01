@@ -13,7 +13,11 @@ images: []
 <p class="exhibition-page-meta">{{ ex.venue }}{% if ex.location %}, {{ ex.location }}{% endif %} &middot; {{ ex.year }}</p>
 {% if ex.credits %}<p class="exhibition-page-credits">{{ ex.credits }}</p>{% endif %}
 
-{% if ex.description %}<p>{{ ex.description }}</p>{% endif %}
+{% if ex.description_long %}
+  {% for para in ex.description_long %}<p>{{ para }}</p>
+  {% endfor %}
+{% elsif ex.description %}<p>{{ ex.description }}</p>
+{% endif %}
 
 {% if ex.press %}<p><a class="pub-btn" href="{{ ex.press }}" target="_blank" rel="noopener">Press coverage</a></p>{% endif %}
 
