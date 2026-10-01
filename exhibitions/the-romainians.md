@@ -6,7 +6,6 @@ images:
   - /at-a/assets/images/exhibitions/romainians/04-poster.jpg
   - /at-a/assets/images/exhibitions/romainians/01-exterior-entrance.jpg
   - /at-a/assets/images/exhibitions/romainians/02-exterior-cutout.jpg
-  - /at-a/assets/images/exhibitions/romainians/05-interior-wide.jpg
   - /at-a/assets/images/exhibitions/romainians/06-laptop-printer.jpg
   - /at-a/assets/images/exhibitions/romainians/07-facebook-profile.jpg
   - /at-a/assets/images/exhibitions/romainians/08-banana.jpg
