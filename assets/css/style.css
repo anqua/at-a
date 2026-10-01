@@ -342,6 +342,12 @@ h1 {
   color: #555;
 }
 
+.exhibition-page-credits {
+  font-style: italic;
+  color: #555;
+  font-size: 0.95em;
+}
+
 .exhibition-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
