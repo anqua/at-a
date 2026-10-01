@@ -398,6 +398,11 @@ h1 {
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+.pub-thumb-link {
+  display: block;
+  flex-shrink: 0;
+}
+
 .pub-thumb {
   width: 90px;
   height: 90px;

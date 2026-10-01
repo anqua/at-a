@@ -48,7 +48,7 @@
 }
   {%- endcase -%}{% endcapture %}
 <div class="pub-card">
-  {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">{% endif %}<img class="pub-thumb" src="{% if pub.image %}{{ pub.image }}{% else %}/at-a/assets/images/Logo_AtA.png{% endif %}" alt="{{ pub.title | escape }}">{% if pub.doi %}</a>{% endif %}
+  {% if pub.doi %}<a class="pub-thumb-link" href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">{% endif %}<img class="pub-thumb" src="{% if pub.image %}{{ pub.image }}{% else %}/at-a/assets/images/Logo_AtA.png{% endif %}" alt="{{ pub.title | escape }}">{% if pub.doi %}</a>{% endif %}
   <div class="pub-body">
     <h4 class="pub-title">{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</h4>
     <p class="pub-meta">
