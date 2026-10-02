@@ -533,6 +533,11 @@ h1 {
   font-weight: bold;
 }
 
+.pub-title a {
+  color: #000;
+  text-decoration: none;
+}
+
 .pub-meta {
   margin: 0 0 0.5em;
   font-size: 0.95em;
@@ -601,6 +606,14 @@ h1 {
   .pub-thumb {
     width: 100%;
     height: 160px;
+  }
+
+  .pub-thumb-link {
+    /* in column layout the cross-axis is horizontal, so align-self:
+       flex-start (set for the desktop row layout) would shrink this to the
+       image's width instead of stretching full-width like the unlinked
+       book-chapter thumbnails */
+    align-self: stretch;
   }
 }
 
