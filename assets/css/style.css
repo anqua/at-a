@@ -692,6 +692,15 @@ h1 {
 .person-card .contact a {
   color: #000;
   text-decoration: none;
+  /* inline-block drops the stray space after the icon, so the hover stripe is exactly as wide as the icon */
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* no trailing margin: it pushed each icon left of the centre of its hover stripe */
+.person-card .contact a svg {
+  margin-right: 0;
+  display: inline-block;
 }
 
 main a {
@@ -992,7 +1001,8 @@ main a.pub-thumb-link:hover {
 /* card colour = research area, as in the Venn diagram and research cards */
 .visiting-card--ah-tech { border-left-color: #0000ff; }
 .visiting-card--ah-arch { border-left-color: #00ff00; }
-.visiting-card--tech-arch { border-left-color: #ff00ff; }
+.visiting-card--tech-arch,
+.visiting-card--tech-design { border-left-color: #ff00ff; }
 
 .visiting-area {
   margin: 0 0 0.3em;
