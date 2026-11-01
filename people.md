@@ -34,7 +34,7 @@ title: People
   <div class="visiting-card visiting-card--{{ v.area }}">
     <img src="{% if v.photo %}{{ v.photo }}{% else %}/at-a/assets/images/Logo_AtA.png{% endif %}" alt="{{ v.name | escape }}" class="visiting-photo{% unless v.photo %} visiting-photo--logo{% endunless %}">
     <div class="visiting-body">
-      <p class="visiting-area">{% if v.area == "ah-tech" %}Arts &amp; Humanities &times; Technology{% elsif v.area == "ah-arch" %}Arts &amp; Humanities &times; Architecture{% elsif v.area == "tech-arch" %}Technology &times; Architecture{% endif %}</p>
+      <p class="visiting-area">{% if v.area == "ah-tech" %}Arts &amp; Humanities &times; Technology{% elsif v.area == "ah-arch" %}Arts &amp; Humanities &times; Architecture{% elsif v.area == "tech-arch" %}Technology &times; Architecture{% elsif v.area == "tech-design" %}Technology &times; Design{% endif %}</p>
       <h3>{{ v.name }}</h3>
       <p class="visiting-role">{{ v.role }}{% if v.affiliation %} &middot; {{ v.affiliation }}{% endif %}</p>
       <p class="visiting-bio">{{ v.bio }}</p>
