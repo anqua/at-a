@@ -17,3 +17,29 @@
   links:
     - label: Website
       url: https://kraft.studio
+
+- name: Christiane (Candy) M. Herr
+  role: Speaker, meta-TOPIAS symposium, May 2026
+  affiliation: School of Design, SUSTech
+  bio: "Tenured professor and founding member of the School of Design at the Southern University of Science and Technology (SUSTech), Shenzhen. She founded the Future Ecologies Research Group, which examines the intersection of ecology and technology in building facades, with an emphasis on the local context of China. Past President of CAADRIA and Vice-Chair of CAADFutures. Her talk: New Human-Nature Relationships in the City."
+  links:
+    - label: SUSTech
+      url: https://www.sustech.edu.cn/en/
+
+- name: Thomas Fischer
+  role: Speaker, meta-TOPIAS symposium, May 2026
+  affiliation: School of Design, SUSTech
+  bio: "Professor at the School of Design at SUSTech and leader of its Design Cybernetics Group. Design educator and researcher, with previous teaching posts at The Hong Kong Polytechnic University and Xi'an Jiaotong-Liverpool University. Fellow of the Design Research Society and of the Cybernetics Society, and recipient of the American Society for Cybernetics' Warren McCulloch Award. His research focuses on design computing, design cybernetics, design geometry and digital media. His talk: Media Archaeology + Cybernetic Machines."
+  links:
+    - label: SUSTech
+      url: https://www.sustech.edu.cn/en/
+
+- name: Quanle Huang
+  role: Speaker, meta-TOPIAS symposium, May 2026
+  affiliation: Architecture School, Guangzhou Academy of Arts
+  bio: "Associate professor at the Architecture School of the Guangzhou Academy of Arts. Their talk: Where Water Flows, Prosperity Grows."
+
+- name: Shavei Zhang
+  role: Speaker, meta-TOPIAS symposium, May 2026
+  affiliation: Landscape Architecture School, Guangzhou Academy of Arts
+  bio: "Associate professor and head of the Landscape Architecture School at the Guangzhou Academy of Arts. Their talk: Urban Vitality Phase Transition Mechanisms."
