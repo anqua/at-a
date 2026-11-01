@@ -38,10 +38,12 @@
 
 - name: Quanle Huang
   role: Speaker, meta-TOPIAS symposium, May 2026
-  affiliation: Architecture School, Guangzhou Academy of Arts
-  bio: "Associate professor at the Architecture School of the Guangzhou Academy of Arts. Their talk: Where Water Flows, Prosperity Grows."
+  affiliation: Architecture School, Guangzhou Academy of Fine Arts
+  photo: /at-a/assets/images/photo_Quanle.jpg
+  bio: "Associate professor of Architecture and, from 2019 to 2025, Dean of the Department of Architecture at the Guangzhou Academy of Fine Arts. She holds a PhD in Architecture from the University of Paris 8 and a Master's degree from the South China University of Technology, and worked for many years at its Architectural Design & Research Institute. Her research covers urban spatial typology, urban design, urban renewal and public architecture design. Her talk: Where Water Flows, Prosperity Grows: A Comparative Study of Urban-Water Symbiosis."
 
 - name: Shavei Zhang
   role: Speaker, meta-TOPIAS symposium, May 2026
-  affiliation: Landscape Architecture School, Guangzhou Academy of Arts
-  bio: "Associate professor and head of the Landscape Architecture School at the Guangzhou Academy of Arts. Their talk: Urban Vitality Phase Transition Mechanisms."
+  affiliation: School of Architecture & Applied Arts, Guangzhou Academy of Fine Arts
+  photo: /at-a/assets/images/photo_Shavei.jpg
+  bio: "Associate professor and head of Landscape Architecture, and Deputy Secretary General of the Guangdong Specialized Committee of Landscape Architecture Education Information. Her research focuses on the Pearl River Delta, combining historical GIS, remote sensing and multi-source spatial data to study how regional cultural heritage adapts and how cultural landscapes evolve, bringing urban science and complex systems theory to the question of how cultural heritage stays resilient. Her talk: Urban Vitality Phase Transition Mechanisms in Brownfield Transformation: A Spatiotemporal Percolation Perspective."
