@@ -1001,3 +1001,8 @@ main a.pub-thumb-link:hover {
   text-transform: uppercase;
   color: #555;
 }
+
+.people-heading {
+  text-align: center;
+  margin: 0 0 0.2em;
+}

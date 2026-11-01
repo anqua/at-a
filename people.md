@@ -3,6 +3,8 @@ layout: default
 title: People
 ---
 
+<h2 class="people-heading">Group members ({{ site.data.people.size }})</h2>
+
 <div id="people">
 {% for person in site.data.people %}
   <div class="person-card">
@@ -27,7 +29,7 @@ title: People
 </div>
 
 <div id="visiting">
-  <h2 class="visiting-heading">Visiting researchers</h2>
+  <h2 class="visiting-heading">Visiting researchers ({{ site.data.visiting.size }})</h2>
 {% for v in site.data.visiting %}
   <div class="visiting-card visiting-card--{{ v.area }}">
     <img src="{% if v.photo %}{{ v.photo }}{% else %}/at-a/assets/images/Logo_AtA.png{% endif %}" alt="{{ v.name | escape }}" class="visiting-photo{% unless v.photo %} visiting-photo--logo{% endunless %}">
