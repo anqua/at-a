@@ -910,7 +910,70 @@ main a.pub-thumb-link:hover {
   }
 }
 
+#visiting {
+  max-width: var(--content-width);
+  margin: 2em auto 0;
+  padding: 0 1.5em;
+}
 
+.visiting-heading {
+  text-align: center;
+  margin-bottom: 1em;
+}
 
+.visiting-card {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+  width: 100%;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-left: 6px solid #000;
+  padding: 1.8em 2em;
+  margin-bottom: 1.5em;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
+.visiting-photo {
+  width: 160px;
+  height: 188px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: 6px;
+}
 
+.visiting-photo--logo {
+  object-fit: contain;
+  background: #000;
+  padding: 24px;
+}
+
+.visiting-body h3 {
+  margin: 0 0 0.2em;
+  font-size: 1.3em;
+}
+
+.visiting-role {
+  margin: 0 0 0.8em;
+  color: #555;
+  font-style: italic;
+}
+
+.visiting-bio {
+  margin: 0 0 1em;
+}
+
+.visiting-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .visiting-card {
+    flex-direction: column;
+    gap: 1.2em;
+    padding: 1.4em;
+  }
+}

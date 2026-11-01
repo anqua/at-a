@@ -26,6 +26,21 @@ title: People
 {% endfor %}
 </div>
 
+<div id="visiting">
+  <h2 class="visiting-heading">Visiting researchers</h2>
+{% for v in site.data.visiting %}
+  <div class="visiting-card">
+    <img src="{% if v.photo %}{{ v.photo }}{% else %}/at-a/assets/images/Logo_AtA.png{% endif %}" alt="{{ v.name | escape }}" class="visiting-photo{% unless v.photo %} visiting-photo--logo{% endunless %}">
+    <div class="visiting-body">
+      <h3>{{ v.name }}</h3>
+      <p class="visiting-role">{{ v.role }}{% if v.affiliation %} &middot; {{ v.affiliation }}{% endif %}</p>
+      <p class="visiting-bio">{{ v.bio }}</p>
+      {% if v.links %}<p class="visiting-links">{% for l in v.links %}<a class="pub-btn" href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a>{% endfor %}</p>{% endif %}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
 <div id="graduates" markdown="1">
 
 ## Graduates
