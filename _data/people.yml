@@ -9,26 +9,30 @@
   research: "computational design, architectural design, computational fabrication, bio-design, architectural theory, art & science."
 
 - name: Xiaojun (Chloe) Zhu | 朱晓君
-  role: PhD student, feb/2026 -
+  role: PhD student
+  since: feb/2026 -
   photo: /at-a/assets/images/photo_Chloe.jpg
   email: xzhu895@connect.hkust-gz.edu.cn
   linkedin: https://www.linkedin.com/in/xiaojun-zhu-chloez0108/
   research: "bio-based materials (bio-rock, seashell concrete), salvaged material reuse, digital fabrication, generative AI for design."
 
 - name: Lucky John Tutor
-  role: PhD student, feb/2026 -
+  role: PhD student
+  since: feb/2026 -
   photo: /at-a/assets/images/Logo_AtA.png
   email: ljtutor128@connect.hkust-gz.edu.cn
   research: "digital fabrication, design for sustainability, 4D printing, AI for design, human-computer interaction, human-building interaction."
 
 - name: Yunwei Li | 李昀蔚
-  role: PhD student, sept/2026 -
+  role: PhD student
+  since: sept/2026 -
   photo: /at-a/assets/images/photo_Yunwei_pad.jpg
   email: yunweili@hkust-gz.edu.cn
   research: "design theory, design for play, communication design, visual communication."
 
 - name: Yuliang Kang | 康宇亮
-  role: PhD student, sept/2026 -
+  role: PhD student
+  since: sept/2026 -
   photo: /at-a/assets/images/photo_Yuliang.jpg
   email: yuliangkang.design@gmail.com
   website: https://yuliang.space/
@@ -36,7 +40,8 @@
   research: "material intelligence, responsive matter, speculative design, more-than-human design."
 
 - name: Zahid Hasan
-  role: PhD student, sept/2026 -
+  role: PhD student
+  since: sept/2026 -
   photo: /at-a/assets/images/photo_Zahid_pad.jpg
   email: mzhasan517@connect.hkust-gz.edu.cn
   linkedin: https://www.linkedin.com/in/md-zahid-csed
@@ -44,7 +49,8 @@
   research: "smart materials, functional nanocomposites, sustainable materials, flexible electronics, wearable sensors, intelligent sensing, sensor data analytics, human-computer interaction."
 
 - name: Siyuan (Sheldon) Chen | 陈思远
-  role: PhD student (part-time), sept/2026 -
+  role: PhD student (part-time)
+  since: sept/2026 -
   photo: /at-a/assets/images/photo_Sheldon_pad.jpg
   email: sheldonsyc@hkust-gz.edu.cn
   research: "construction and demolition, material flows, design for sustainability, design for disassembly, building conservation."
@@ -57,7 +63,8 @@
   research: "digital humanities, AI for creativity support, animal-computer interaction, sound & music, critical theory."
   
 - name: Lei (Simon) Han | 韩磊
-  role: PhD candidate (main supervisor David Yip), sept/2023 -
+  role: PhD candidate (main supervisor David Yip)
+  since: sept/2023 -
   photo: /at-a/assets/images/photo_Simon.jpeg
   email: lhan229@connect.hkust-gz.edu.cn
   website: https://leihan124.github.io/
@@ -65,26 +72,30 @@
   research: "cultural heritage, generative AI, art-based research, interaction design."
 
 - name: Yawei Zhao | 赵雅薇
-  role: PhD candidate (main supervisor Pan Hui), sept/2022 -
+  role: PhD candidate (main supervisor Pan Hui)
+  since: sept/2022 -
   photo: /at-a/assets/images/photo_Yawei.jpg
   email: yzhao099@connect.hkust-gz.edu.cn
   scholar: https://scholar.google.com/citations?user=TMgvITkAAAAJ&hl=en
   research: "landscape architecture, VR/AR/MR, art-based research, bio-design."
 
 - name: Yufeg Zeng | 曾钰峰
-  role: PhD candidate (main supervisor Chen Liang), sept/2023 -
+  role: PhD candidate (main supervisor Chen Liang)
+  since: sept/2023 -
   photo: /at-a/assets/images/Logo_AtA.png
   email: yzeng683@connect.hkust-gz.edu.cn
   research: "creativity support tools, architectural design, design thinking."
 
 - name: Qinyan (Olivia) Li | 李沁妍
-  role: PhD student (main supervisor James She), sept/2024 -
+  role: PhD student (main supervisor James She)
+  since: sept/2024 -
   photo: /at-a/assets/images/photo_Olivia_pad.jpg
   email: qli366@connect.hkust-gz.edu.cn
   research: "human-AI collaboration, interactive art and design, generative AI."
 
 - name: Zhihun Ma | 马志骏
-  role: PhD student (main supervisor Kang Zhang), sept/2024 -
+  role: PhD student (main supervisor Kang Zhang)
+  since: sept/2024 -
   photo: /at-a/assets/images/photo_Zhihun.jpg
   email: zma361@connect.hkust-gz.edu.cn
   website: https://zhijun213.github.io

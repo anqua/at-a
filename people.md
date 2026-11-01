@@ -10,7 +10,7 @@ title: People
       <img src="{{ person.photo }}" alt="{{ person.name }}">
     {% endif %}
     <h3>{{ person.name }}</h3>
-    <p class="role">{{ person.role }}</p>
+    <p class="role">{{ person.role }}{% if person.since %}<span class="since">{{ person.since }}</span>{% endif %}</p>
     {% if person.research %}
       <p class="research">{{ person.research }}</p>
     {% endif %}

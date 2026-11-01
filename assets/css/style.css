@@ -682,6 +682,13 @@ h1 {
   margin-bottom: 0.5em;
 }
 
+.person-card .role .since {
+  display: block;
+  font-style: normal;
+  font-size: 0.8em;
+  margin-top: 0.15em;
+}
+
 .person-card .contact a {
   color: #000;
   text-decoration: none;
