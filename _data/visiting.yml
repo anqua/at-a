@@ -1,16 +1,16 @@
-- name: Elizabeth Jochum
-  area: ah-tech
-  role: Visiting researcher, October 2026
-  affiliation: Aalborg University, Denmark | RA Capital, Boston
-  photo: /at-a/assets/images/photo_Elizabeth_pad.jpg
-  bio: "<a href='https://vbn.aau.dk/en/persons/elizabeth-jochum' target='_blank' rel='noopener'>Associate professor of Robotics and Art</a> at Aalborg University (RELATE Research Laboratory for Art Technology) and <a href='https://www.racap.com/team/elizabeth-jochum' target='_blank' rel='noopener'>director of robotics and automation</a> at the investment fund RA in Boston. Her research uses the visual and performing arts as catalysts for rethinking how we design and implement robots and assistive technologies, from industrial robot arms to dancing exoskeletons."
-
 - name: E.G. Kraft | 可拉符 永治
   area: ah-tech
   role: Visiting researcher, November 2026
   affiliation: Tokyo / Vienna
   photo: /at-a/assets/images/photo_Kraft_pad.jpg
   bio: "Conceptual artist and researcher of sociotechnical cultures, splitting his time between Western Europe and Eastern Asia. His <a href='https://kraft.studio' target='_blank' rel='noopener'>award-winning work</a> has been exhibited in museums, galleries and festivals worldwide, and addresses the modern condition as an outcome of techno-social, material and econometric dynamics. Kraft is the recipient of the 2023 Lumen Prize (UK), the 2022 New Technological Art Award (BE), the 2023 S+T+ARTS Prize Honourable Mention (EU), the 2022 Austrian Blockchain Award (AT), and numerous other awards and nominations. He is a frequent lecturer at European and Asian universities, including China Academy of Art, University of the Arts Berlin, Duke Kunshan University (CN), Joshibi University of Art and Design (JP), University of Art and Design Linz (AT)."
+
+- name: Elizabeth Jochum
+  area: ah-tech
+  role: Visiting researcher, October 2026
+  affiliation: Aalborg University, Denmark | RA Capital, Boston
+  photo: /at-a/assets/images/photo_Elizabeth_pad.jpg
+  bio: "<a href='https://vbn.aau.dk/en/persons/elizabeth-jochum' target='_blank' rel='noopener'>Associate professor of Robotics and Art</a> at Aalborg University (RELATE Research Laboratory for Art Technology) and <a href='https://www.racap.com/team/elizabeth-jochum' target='_blank' rel='noopener'>director of robotics and automation</a> at the investment fund RA in Boston. Her research uses the visual and performing arts as catalysts for rethinking how we design and implement robots and assistive technologies, from industrial robot arms to dancing exoskeletons."
 
 - name: Christiane (Candy) M. Herr
   area: tech-arch
