@@ -928,7 +928,7 @@ main a.pub-thumb-link:hover {
   width: 100%;
   background: #fff;
   border: 1px solid #ccc;
-  border-top: 4px solid #222;
+  border-left: 6px solid #222;
   padding: 1.8em 2em;
   margin-bottom: 1.5em;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -983,9 +983,9 @@ main a.pub-thumb-link:hover {
 .visiting-card .visiting-photo--logo { clip-path: path("M 107.4 15.5 C 114.6 18.0, 121.2 20.9, 127.5 24.5 C 133.9 27.9, 139.5 31.5, 144.9 35.9 C 150.1 40.1, 155.1 45.1, 159.4 50.1 C 163.9 55.4, 167.8 60.9, 171.1 66.9 C 174.5 72.8, 177.4 79.2, 179.8 86.0 C 182.1 92.8, 184.0 99.9, 185.2 107.5 C 186.5 115.1, 187.9 123.5, 187.1 131.8 C 186.5 140.0, 185.1 149.5, 180.9 156.8 C 176.9 164.0, 170.0 170.5, 163.1 175.2 C 156.1 180.0, 147.5 183.1, 139.8 185.1 C 131.8 187.2, 123.2 187.8, 115.4 187.8 C 107.5 187.5, 99.9 186.6, 92.6 184.9 C 85.2 183.4, 78.1 180.8, 71.8 177.9 C 65.1 174.8, 58.9 171.1, 53.2 166.8 C 47.8 162.5, 42.6 157.4, 38.0 152.0 C 33.5 146.6, 29.4 140.6, 26.1 134.5 C 22.9 128.1, 20.2 121.4, 18.5 114.2 C 16.6 107.4, 15.4 100.0, 15.1 92.6 C 14.8 85.1, 15.1 77.4, 16.5 69.5 C 17.9 61.9, 19.8 53.8, 23.1 46.1 C 26.2 38.5, 30.6 30.2, 36.5 24.2 C 42.2 18.2, 50.1 12.6, 58.1 10.1 C 66.0 7.8, 75.9 8.5, 84.0 9.4 C 92.2 10.2, 100.1 12.9, 107.4 15.5 Z"); }
 
 /* card colour = research area, as in the Venn diagram and research cards */
-.visiting-card--ah-tech { border-top-color: #0000ff; }
-.visiting-card--ah-arch { border-top-color: #00ff00; }
-.visiting-card--tech-arch { border-top-color: #ff00ff; }
+.visiting-card--ah-tech { border-left-color: #0000ff; }
+.visiting-card--ah-arch { border-left-color: #00ff00; }
+.visiting-card--tech-arch { border-left-color: #ff00ff; }
 
 .visiting-area {
   margin: 0 0 0.3em;
