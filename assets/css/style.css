@@ -938,6 +938,7 @@ main a.pub-thumb-link:hover {
   width: 160px;
   height: 188px;
   object-fit: cover;
+  object-position: center 15%;
   flex-shrink: 0;
   border-radius: 6px;
 }
