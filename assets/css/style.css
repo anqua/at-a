@@ -965,13 +965,6 @@ main a.pub-thumb-link:hover {
   margin: 0 0 1em;
 }
 
-.visiting-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5em;
-  margin: 0;
-}
-
 @media (max-width: 768px) {
   .visiting-card {
     flex-direction: column;

@@ -35,7 +35,6 @@ title: People
       <h3>{{ v.name }}</h3>
       <p class="visiting-role">{{ v.role }}{% if v.affiliation %} &middot; {{ v.affiliation }}{% endif %}</p>
       <p class="visiting-bio">{{ v.bio }}</p>
-      {% if v.links %}<p class="visiting-links">{% for l in v.links %}<a class="pub-btn" href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a>{% endfor %}</p>{% endif %}
     </div>
   </div>
 {% endfor %}
