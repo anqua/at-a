@@ -3,19 +3,19 @@ layout: default
 title: The Rom(AI)nians
 exhibition_id: rom-ai-nians
 images:
-  - /at-a/assets/images/exhibitions/romainians/04-poster.jpg
+  - /assets/images/exhibitions/romainians/04-poster.jpg
   - type: video
-    src: /at-a/assets/videos/the-romainians-reel.mp4
-  - /at-a/assets/images/exhibitions/romainians/01-exterior-entrance.jpg
-  - /at-a/assets/images/exhibitions/romainians/02-exterior-cutout.jpg
-  - /at-a/assets/images/exhibitions/romainians/06-laptop-printer.jpg
-  - /at-a/assets/images/exhibitions/romainians/07-facebook-profile.jpg
-  - /at-a/assets/images/exhibitions/romainians/08-banana.jpg
+    src: /assets/videos/the-romainians-reel.mp4
+  - /assets/images/exhibitions/romainians/01-exterior-entrance.jpg
+  - /assets/images/exhibitions/romainians/02-exterior-cutout.jpg
+  - /assets/images/exhibitions/romainians/06-laptop-printer.jpg
+  - /assets/images/exhibitions/romainians/07-facebook-profile.jpg
+  - /assets/images/exhibitions/romainians/08-banana.jpg
 ---
 
 {% assign ex = site.data.exhibitions | where: "id", page.exhibition_id | first %}
 
-<p><a href="/at-a/outputs#exhibitions" class="exhibition-back">&larr; Back to Outputs</a></p>
+<p><a href="/outputs#exhibitions" class="exhibition-back">&larr; Back to Outputs</a></p>
 
 <h1>{{ ex.title }}</h1>
 <p class="exhibition-page-meta">{% if ex.venue_url %}<a href="{{ ex.venue_url }}" target="_blank" rel="noopener">{{ ex.venue }}</a>{% else %}{{ ex.venue }}{% endif %}{% if ex.location %}, {{ ex.location }}{% endif %} &middot; {{ ex.year }}</p>
