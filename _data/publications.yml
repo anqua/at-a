@@ -66,6 +66,15 @@
   doi: "10.1145/3803784.3809255"
   pdf: /at-a/assets/pdfs/Zhao2026.pdf
 
+- id: Zhao2026b
+  type: conference
+  authors: "Yawei Zhao, Yiming Zhu, Hao Li, Yuqi Liang, Ao Yu, Anca-Simona Horvath, Pan Hui"
+  title: "Toward Site-Aware MR Art Exhibitions: A SLAM-Based Deployment Pipeline for Spatial Coherence and Exhibition Experience"
+  conference: "MM '26: Proceedings of the 34th ACM International Conference on Multimedia"
+  publisher: "Association for Computing Machinery (ACM)"
+  year: 2026
+  doi: "10.1145/3767308.3834949"
+
 - id: Zohar2026
   type: conference
   authors: "Hadas Zohar, Amalia de Götzen, Anca-Simona Horvath"
