@@ -27,7 +27,8 @@
   booktitle = {{ open_brace }}{{ pub.book }}}{% if pub.editors %},
   editor    = {{ open_brace }}{{ pub.editors }}}{% endif %},
   publisher = {{ open_brace }}{{ pub.publisher }}},
-  year      = {{ open_brace }}{{ pub.year }}}{% if pub.upcoming %},
+  year      = {{ open_brace }}{{ pub.year }}}{% if pub.doi %},
+  doi       = {{ open_brace }}{{ pub.doi }}}{% endif %}{% if pub.upcoming %},
   note      = {{ open_brace }}Forthcoming}{% endif %}
 }
   {%- when "preprint" -%}
