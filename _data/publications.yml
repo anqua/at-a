@@ -11,7 +11,8 @@
 - id: Horvath2026b
   type: bookchapter
   authors: "Anca-Simona Horvath"
-  year: 2026
+  year: 2027
+  upcoming: true
   title: "Latent-surrealism: Revisiting surrealism and its aesthetics in relation to contemporary AI-Generated cultural production"
   book: "AI and Cultural Psychology: Through the looking glass"
   editors: "Newton Mota da Silva, Nandita Chaudhary, Marc Campill, Charlotte Marie Thinggaard"
@@ -21,7 +22,8 @@
 - id: Horvath2026e
   type: bookchapter
   authors: "Anca-Simona Horvath"
-  year: 2026
+  year: 2027
+  upcoming: true
   title: "Words, Spaces and Generative AI: Layers of language in contemporary architecture"
   book: "Routledge Companion for Artificial Intelligence in Architecture"
   editors: "Orkan Zeynel Güzelci, Imdat As"

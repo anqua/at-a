@@ -538,6 +538,20 @@ h1 {
   text-decoration: none;
 }
 
+.pub-upcoming {
+  display: inline-block;
+  margin-left: 0.4em;
+  padding: 0.1em 0.5em;
+  border: 1px solid #000;
+  border-radius: 4px;
+  font-size: 0.75em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 .pub-meta {
   margin: 0 0 0.5em;
   font-size: 0.95em;
