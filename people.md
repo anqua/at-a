@@ -47,6 +47,8 @@ title: People
 
 ## Graduates
 
+Rong (Flora) Hu \| 胡蓉 (role: Research Assistant)
+
 Simai (Stella) Huang \| 黄思迈 (role: Research Assistant / current role: PhD student Beijing Normal Hong Kong Baptist University)
 
 </div>
